@@ -2,7 +2,10 @@ VERDADEIRAS:
 
 *Doença rara que afeta o sistema sanguíneo ganha tratamento individualizado no SUS - http://www.saude.gov.br/noticias/agencia-saude/46149-doenca-rara-que-afeta-o-sistema-sanguineo-ganha-tratamento-individualizado-no-sus
 *Chá de salsa limpa os rins - https://www.saude.gov.br/fakenews/46346-cha-de-salsa-limpa-os-rins-e-verdade - https://www.solbrilhando.com.br/Saude/Como_limpar_os_rins.htm
-* Cera do ouvido indicam câncer - https://www.saude.gov.br/fakenews/46335-cera-do-ouvido-indicam-cancer-e-verdade - https://g1.globo.com/go/goias/noticia/2019/08/31/pesquisa-da-ufg-aponta-que-cera-do-ouvido-ajuda-no-diagnostico-precoce-do-cancer.ghtml
+*Cera do ouvido indicam câncer - https://www.saude.gov.br/fakenews/46335-cera-do-ouvido-indicam-cancer-e-verdade - https://g1.globo.com/go/goias/noticia/2019/08/31/pesquisa-da-ufg-aponta-que-cera-do-ouvido-ajuda-no-diagnostico-precoce-do-cancer.ghtml
+*Sinais que ajudam a identificar um AVC - https://www.saude.gov.br/fakenews/45266-sinais-que-ajudam-a-identificar-um-avc-e-verdade - https://noticiasinterativas.com.br/4-passos-para-salvar-alguem-de-um-avc/
+
+
 
 FALSAS:
 
@@ -18,3 +21,16 @@ FALSAS:
 *Água quente com abacaxi - https://www.saude.gov.br/fakenews/46047-agua-quente-com-abacaxi-e-fake-news - https://www.boatos.org/saude/agua-quente-abacaxi-cura-cancer.html
 *Aspartame causa esclerose múltipla e lúpus - https://www.saude.gov.br/fakenews/45700-aspartame-causa-esclerose-multipla-e-lupus-e-fake-news - https://www.facebook.com/notes/izabela-monjardim/advert%C3%AAncia-voltem-para-o-a%C3%A7%C3%BAcar/1543346612350551/
 *Nova doença - https://www.saude.gov.br/fakenews/45632-nova-doenca-e-fake-news - https://www.boatos.org/saude/doenca-pior-hiv-aids-japao.html
+*Tossir evita infarto - https://www.saude.gov.br/fakenews/45628-tossir-evita-infarto-e-fake-news - http://perigos-na-web.blogspot.com/2018/05/pausar-por-2-minutos-e-ler-isto.html
+*Beber água de estômago vazio faz bem à saúde e mais do que isso: cura doenças, inclusive o câncer - https://www.saude.gov.br/fakenews/45623-beber-agua-de-estomago-vazio-faz-bem-a-saude-e-mais-do-que-isso-que-cura-doencas-inclusive-o-cancer-e-fake-news - https://www.facebook.com/1035446939968175/posts/um-cardiologista-diz-que-se-todos-que-receberem-esta-mensagem-a-enviarem-a-pelo-/1249231795256354/
+*Cura do câncer - https://www.saude.gov.br/fakenews/45545-cura-do-cancer-e-fake-news - https://www.facebook.com/PorTrasDaMidiaMundial/posts/1832201153548075/
+*Ondas radioativas do microondas causam danos à saúde - https://www.saude.gov.br/fakenews/45453-ondas-radioativas-do-microondas-causam-danos-a-saude-e-fake-news - https://pt-br.facebook.com/OneL13One/posts/838559586544509/
+*Ar condicionado e o benzeno - https://www.saude.gov.br/fakenews/45265-ar-condicionado-e-o-benzeno-e-fake-news - https://www.boatos.org/saude/benzeno-ar-condicionado-carros-cancer-leucemia-aborto.html
+*Equinócio e altas temperaturas - https://www.saude.gov.br/fakenews/45264-equinocio-e-altas-temperaturas-e-fake-news - https://www.boatos.org/ciencia/fenomeno-equinocio-trara-calor.html
+*Aftas são a causa do câncer - https://www.saude.gov.br/fakenews/45239-aftas-sao-a-causa-do-cancer-e-fake-news - https://pt-br.facebook.com/padrerogerluis/posts/497649937000129/
+*Tratamento de queimaduras com farinha de trigo - https://www.saude.gov.br/fakenews/45240-tratamento-de-queimaduras-com-farinha-de-trigo-e-fake-news - https://www.facebook.com/241563053408757/posts/242846826613713/
+*Limão no copo mata - https://www.saude.gov.br/fakenews/45223-limao-no-copo-mata-e-fake-news - https://www.boatos.org/saude/limao-copo-cerveja-veneno-pode-matar.html
+*Uso de celular na cozinha e acidentes - https://www.saude.gov.br/fakenews/45208-uso-de-celular-na-cozinha-e-acidentes-e-fake-news - https://m.facebook.com/folhadenoticiasbr/posts/1295778720590145
+*10 razões pelas quais não deveria vacinar seu filho - https://www.saude.gov.br/fakenews/45183-10-razoes-pelas-quais-nao-deveria-vacinar-seu-filho-e-fake-news - https://hi-in.facebook.com/assuntosgeraiss/posts/1876993622377281/
+*Gelo causa câncer - https://www.saude.gov.br/fakenews/45160-gelo-causa-cancer-e-fake-news - https://www.e-farsas.com/o-alerta-do-instituto-do-cancer-da-indonesia-para-cuidados-na-menstruacao-e-verdadeiro-ou-falso.html
+*Câncer é deficiência da vitamina B17 - https://www.saude.gov.br/fakenews/45159-cancer-e-deficiencia-da-vitamina-b17-e-fake-news - https://crispimsaude.wordpress.com/2020/01/29/cancer-um-negocio-multimilionario/
