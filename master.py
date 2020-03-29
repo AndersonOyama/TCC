@@ -21,6 +21,8 @@ def listToString(s):
 def main(dir):
     files = list_files(dir)
     files = list(files)
+    files.sort()
+    
 
     results = xlsxwriter.Workbook("resultados.xlsx")
     worksheet = results.add_worksheet()
