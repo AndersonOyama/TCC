@@ -14,11 +14,13 @@ def multi_replace(reg, text):
 def countSpellError(file):
     nmberOfError = 0
 
-    spell = SpellChecker(language=None, local_dictionary="./language/dictionary_compiled.txt")
+    spell = SpellChecker(language=None, local_dictionary="./dictionary/dictionary_compiled.txt")
 
 # CRIAR DICIONARIO E "COMPILAR" ELE PARA USO DO SPELLCHECKER 
+
     # spell = SpellChecker(language=None)
     # spell.word_frequency.load_text_file("./language/pt_br_full_ignored_en_100+.txt")
+    # spell.word_frequency.load_text_file("./language/dic.txt")
     # spell.export("./language/dictionary_compiled.txt")
 
     lines = []
@@ -32,12 +34,14 @@ def countSpellError(file):
         "%" : "",
         "\"" : "",
         "\'" : "",
+        "\“" : "",
+        "/" : " ",
         "”" : "",
         "*" : ""
     }
 
     with open(file, 'r') as f:
-        lines = word_tokenize( re.sub(r'(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}     /)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:\'".,<>?«»“”‘’]))', '', multi_replace(reg, f.read().lower()), flags=re.MULTILINE))
+        lines = word_tokenize( multi_replace(reg, re.sub(r'(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}     /)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:\'".,<>?«»“”‘’]))', '', f.read().lower(), flags=re.MULTILINE)))
     misspelled = spell.unknown(lines)
 
     for word in misspelled:
