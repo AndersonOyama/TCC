@@ -1,0 +1,40 @@
+Um grupo de mais de mil cientistas montou a base de dados mais completa já compilada até hoje sobre o câncer.
+
+Segundo eles, o câncer é como um quebra-cabeças de 100 mil peças e ainda faltavam "99% dessas peças".
+
+Os novos estudos, publicados na revista científica Nature, compõem um quadro quase completo de todos os tipos de câncer,
+
+As informações podem ajudar a criar tratamentos individualizados para os tumores específicos de cada paciente e a encontrar novas formas de detectar o câncer precocemente.
+
+O código genético completo de 2.658 tipos de câncer foi analisado pelo grupo de cientistas, reunidos no Pan-Cancer Analysis of Whole Genomes Consortium (Consórcio para Análise dos Genomas Completos de Todos os Cânceres, em tradução livre).
+
+O 1%
+
+Um câncer é uma versão corrompida de nossas próprias células saudáveis, que sofrem mutações no DNA e ocasionalmente passam a crescer e se multiplicar sem controle.
+
+Grande parte de nosso entendimento desse processo vem de conjuntos de instruções genéticas para a fabricação das proteínas do nosso corpo.
+
+"Isso representava somente 1% de todo o genoma (do câncer)", afirma o pesquisador Lincoln Stein, do Instituto de Pesquisas sobre o Câncer de Ontario, no Canadá.
+
+Segundo ele, os médicos ficavam "no escuro" ao tratar cerca de um terço dos pacientes, já que era impossível dizer por que suas células se tornaram cancerosas.
+
+A descoberta dos 99% restantes demandou o trabalho de equipes de cientistas em 37 países ao longo de mais de uma década.
+
+O trabalho, descrito em 22 artigos científicos, mostra que o câncer é uma doença extremamente complexa, com milhares de combinações de mutações diferentes capazes de causá-lo.
+'Mutações condutoras'
+
+O projeto descobriu que os cânceres das pessoas contêm, na média, entre quatro e cinco mutações fundamentais que levam ao crescimento celular anormal.
+
+Esses são potenciais pontos-fracos do câncer, que podem ser explorados com tratamentos que ataquem essas "mutações condutoras".
+
+"Em última instância, o que queremos fazer é usar essas tencologias para identificar tratamentos sob medida para cada paciente", disse Peter Campbell, do britânico Instituto Wellcome Sanger.
+
+Apesar disso, 5% dos tipos de câncer parecem não ter nenhuma mutação condutora, o que mostra que ainda há muito trabalho pela frente.
+
+Os pesquisadores também desenvolveram uma maneira de datar as mutações. Eles mostraram que mais de um quinto delas havia ocorrido anos ou mesmo décadas antes de o câncer ser detectado.
+
+"Nós desenvolvemos as primeiras linhas do tempo de mutações genéticas relacionadas ao espectro de tipos de câncer", disse Peter Van Loo, do Instituto Francis Crick, no Reino Unido.
+
+"A revelação desses padrões significa que deveria ser possível desenvolver novos testes para diagnósticos, para detectar sinais de câncer muito mais precocemente", afirmou.
+
+O desafio, agora, será indentificar também quais dessas mutações se transformarão num câncer e quais poderiam ser ignoradas com segurança.

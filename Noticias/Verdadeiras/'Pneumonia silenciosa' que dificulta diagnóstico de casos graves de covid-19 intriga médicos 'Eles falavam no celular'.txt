@@ -1,0 +1,93 @@
+O médico Richard Levitan notou algo estranho quando atendia pacientes com covid-19 no hospital Bellevue, em Nova York.
+
+Muitos deles, apesar de terem pneumonia e uma oxigenação no sangue abaixo do normal, não tinham problemas para respirar, algo incomum em pacientes nestas condições.
+
+Em um artigo publicado no jornal The New York Times, ele relata vários casos de pacientes internados por outras razões — como acidentes ou vítimas de esfaqueamento — em que só foi descoberto que tinham covid-19 após tomografias ou raios-X realizados para verificar se houve estrago em órgãos internos.
+
+"E foi isso que realmente nos surpreendeu: esses pacientes não tinham reportado qualquer problema de respiração, apesar de raios-X do tórax mostrarem pneumonia avançada e que o oxigênio estava abaixo do normal. Como pôde ser possível?"
+
+O médico constatou que a covid-19 tem uma peculiaridade perigosa.
+
+"Estamos começando a reconhecer que a pneumonia da covid-19 causa inicialmente uma privação de oxigênio que chamamos de 'hipóxia silenciosa' — 'silenciosa' por sua natureza traiçoeira, difícil de ser detectada", afirma Levitan.
+
+O médico explica que, na emergência do hospital, pacientes em estado grave são entubados por várias razões. "Em meus 30 anos de experiência, entretanto, a maioria dos pacientes que precisam da entubação de emergência estão em estado de choque com um estado mental alterado e lutando para respirar. Muitos estão inconscientes ou usando cada músculo que têm para respirar", mas que, no caso da pneumonia de covid-19, "é diferente".
+
+A maioria desses pacientes que tratou, diz Levitan, tinham saturação bastante baixa de oxigênio, "praticamente incompatível com vida", mas "estavam falando em seus celulares".
+
+"Apesar de estarem com a respiração rápida, não aparentavam aflição, apesar dos níveis baixos perigosos de oxigênio e de apresentarem pneumonia avançada nos raios-X."
+Uma 'combinação quase nunca vista'
+
+A médica Clarisse Melo teve até agora uma experiência bastante semelhante ao atender pacientes com covid-19 em um hospital privado do Rio de Janeiro.
+
+"Muitos estão com uma saturação (de oxigênio) muito baixa, mas conversam com a família pelo celular. Eles ficam bravos comigo quando eu digo que têm que ir para a UTI. Eu tenho que mostrar os exames para convencer a pessoa de que ela precisa receber oxigênio", diz a médica.
+
+A situação é tão recorrente que deixou ela e vários colegas intrigados e virou um assunto recorrente nas conversas sobre os pacientes com coronavírus.
+
+"Isso não é comum em quem tem pneumonia, mas todos os médicos com quem trabalho viram pacientes com hipóxia e sem falta de ar. Foi uma unanimidade", diz a médica.
+
+Ela diz também ver várias pessoas que procuraram atendimento já com uma insuficiência respiratória grave. "A gente fica se perguntando: 'Como a pessoa chegou a este ponto? Como não percebeu a falta de ar e foi para o hospital já em um estado tão crítico?'."
+
+Na busca por respostas, ela identificou um estudo liderado pelo anestesiologista Luciano Gattinoni, da Universidade de Göttingen, na Alemanha, que aponta a hipóxia silenciosa como uma condição comum entre os pacientes com covid-19 analisados.
+
+
+Ao menos 50% dos 150 pacientes da pesquisa tinham uma oxigenação baixa, mas pulmões com um nível quase normal de complacência, como é chamada a capacidade do órgão de se expandir.
+
+"Essa combinação notável quase nunca é vista em uma síndrome respiratória aguda grave", diz Gattoni.
+
+Mas é algo que, na linha de frente do combate à pandemia, "todos estão vendo, todos os dias", diz o pneumologista Paulo Teixeira, professor da Universidade Federal de Ciências da Saúde de Porto Alegre.
+
+"A maioria dos pacientes infectados fica bem em duas ou três semanas, mas outros evoluem para quadros graves, e alguns têm essa pneumonia silenciosa. A gente vê tomografias assustadoras, com o pulmão muito comprometido, a pessoa está com uma saturação muito baixa, mas está muito bem", diz Teixeira.
+Por que isso acontece?
+
+Richard Levitan diz em seu artigo que médicos e cientistas estão apenas começando a entender por que isso ocorre.
+
+Uma explicação possível apontada por ele é que o coronavírus ataca células pulmonares que produzem surfactantes, substâncias que ajudam os alvéolos a permanecerem abertos entre as respirações e que são essenciais para o pulmão funcionar normalmente.
+
+"Mas os pulmões permanecem inicialmente 'complacentes', ainda não rígidos ou cheios de fluídos. Isso significa que o paciente pode expelir dióxido de carbono — e, sem o acúmulo de dióxido de carbono, os pacientes não sentem falta de ar", escreve Levitan.
+
+O médico diz que os pacientes tentam compensar a baixa oxigenação ao respirar mais rápido e profundamente, sem perceber que estão fazendo isso. Isso gera mais lesões ao pulmão, o que pode gerar uma insuficiência respiratória aguda e ser letal.
+
+"A rápida progressão da hipóxia silenciosa para a insuficiência respiratória explica os casos de pacientes com covid-19 que morrem de repente, sem chegarem a sentir falta de ar", afirma o médico.
+
+No entanto, Jaques Sztajnbok, médico supervisor da unidade de tratamento intensivo do Instituto de Infectologia Emílio Ribas, diz que a hipóxia silenciosa não é uma característica particular da covid-19.
+
+"Não é algo inédito, vemos acontecer com pacientes que têm outras doenças", diz o médico.
+
+Sztajnbok também explica que cada pessoa tem uma tolerância própria à baixa oxigenação no sangue, de acordo com suas características fisiológicas e preparo físico, por exemplo.
+
+"Alguns pacientes chegam com oxigenação baixa, mas sem problemas para respirar. Mas vários relatam algum desconforto respiratório. Uma das explicações para essa diferença pode ser a tolerância individual à hipóxia", diz Sztajnbok.
+
+O médico aponta ainda que algumas necropsias de pessoas que morreram por causa do coronavírus indicam que houve trombose nos vasos do pulmão, ou seja, formaram-se coágulos que obstruíram a passagem de sangue.
+
+Isso pode ser o motivo da baixa oxigenação do sangue em pacientes que não sentem falta de ar.
+
+"Para o pulmão funcionar, é preciso que haja respiração, mas também que o sangue chegue aos alvéolos para haver a troca de gases. O pulmão pode ter uma complacência boa, mas, se o sangue não chega aonde deveria, a troca não ocorre adequadamente", afirma Sztajnbok.
+
+Teixeira aponta estudos científicos que apontam nesta direção. Eles indicam, por exemplo, que pacientes com covid-19 têm um nível elevado de uma substância conhecida como d-dímero, que é produzida pelo organismo para tentar desfazer coágulos.
+
+"O novo coronavírus causa muita trombose. Estamos usando anticoagulantes com estes pacientes, porque a literatura científica publicada até agora aponta que sua oxigenação melhora assim", afirma Teixeira.
+Um alerta precoce para a pneumonia da covid-19
+
+Richard Levitan defende no artigo o uso de oxímetros para identificar a pneumonia causada pela covid-19 antes de problemas respiratórios aparecerem.
+
+Esse aparelho se parece com um pregador de roupas e é colocado em um dos dedos da mão para medir a saturação de oxigênio no sangue e a frequência cardíaca.
+
+Levitan diz que eles tão são simples de usar quanto um termômetro, são "extremamente confiáveis" e podem dar um alerta precoce para a pneumonia da covid-19.
+
+O médico defende que qualquer um que tenha sintomas compatíveis com os da covid-19 use o aparelho por duas semanas, período no qual a doença se desenvolve, com acompanhamento médico.
+
+Isso pode evitar que muitas pessoas cheguem aos hospitais em estado crítico e precisem ser entubadas. Levitan diz que o oxímetro pode prevenir mortes.
+
+O uso mais amplo desse aparelho seria "ideal", diz Sztajnbok, mas é algo "impossível" de se fazer na prática. Um dos obstáculos é o preço do aparelho, que custa entre R$ 100 e R$ 200 em lojas online.
+
+Por sua vez, Teixeira avalia que usar um pode ser "importantíssimo". "Temos controlado a saturação de pacientes em suas casas desta forma", diz o pneumologista.
+
+Se uma pessoa não tem condições de comprar o aparelho, Teixeira diz que ela deve procurar um hospital caso tenha falta de ar — e mesmo sem febre, porque de 30% a 40% das pessoas com covid-19 não têm esse sintoma.
+
+Sztajnbok reforça que as recomendações feitas até agora sobre o que fazer ao ter sintomas compatíveis com os da covid-19 devem continuar a ser seguidas.
+
+"Procure um hospital se tiver falta de ar, uma frequência respiratória aumentada persistente ou sentir cansaço ao fazer atividades em que isso não aconteceria normalmente."
+
+O médico diz ainda que a hipóxia silenciosa deve ser melhor estudada — e que "não é motivo para pânico".
+
+"O risco é lotar os prontos-socorros com pessoas que acham que têm pneumonia sem ter sintoma nenhum. Quem precisar ser atendido não vai conseguir, e a pessoa que foi lá desnecessariamente pode voltar para casa infectada com o coronavírus."

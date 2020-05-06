@@ -1,0 +1,23 @@
+Um novo estudo investigando a origem da doença de Parkinson jogou células do cérebro de pacientes em um verdadeiro "túnel do tempo".
+
+O objetivo foi identificar, especificamente em pacientes com manifestação precoce do Parkinson — diagnosticados entre os 21 a 50 anos de idade —, o que pode ter dado "errado" nestas células em sua formação. Pessoas diagnosticadas com Parkinson nesta faixa etária correspondem de 5 a 10% do total de pacientes com a doença.
+
+Em geral, o Parkinson ocorre quando neurônios que produzem a dopamina, substância que participa da coordenação de movimentos musculares, morrem ou têm funcionamento deteriorado. Com isso, sintomas começam a aparecer — geralmente a partir dos 60 anos — e a piorar, como rigidez nos músculos, lentidão nos movimentos corporais, tremores e perda de equilíbrio. Não existe hoje tratamento que cure a doença, mas sim terapias que contribuem para amenizar sintomas e desacelerar o progresso do quadro.
+
+Mas ainda não está satisfatoriamente respondido o que leva a essas falhas — estima-se que cerca de 10% dos casos são causados por mutações em genes específicos, e sabe-se também, de forma incipiente, que pode haver uma combinação de fatores ambientais e genéticos.
+
+Por isso, uma equipe do Centro Médico Cedars-Sinai, em Los Angeles, EUA, resolveu justamente investigar os casos de jovens pacientes com Parkinson sem histórico familiar da doença e também sem mutações associadas ao Parkinson.
+
+Para tal, os cientistas geraram as chamadas células-tronco pluripotente induzidas (iPSCs, na sigla em inglês). Estas são geradas levando células adultas ao seu estado primitivo embrionário. Assim, as células-tronco pluripotente induzidas podem produzir qualquer tipo de célula do corpo humano, e geneticamente idêntica às células do paciente em si.
+
+No caso deste estudo, publicado no periódico Nature Medicine, os autores coletaram células do sangue dos pacientes, geraram iPSCs e então neurônios produtores de dopamina (neurônios dopaminérgicos). Estes então foram observados em laboratório. A primeira etapa do estudo envolveu três pacientes com Parkinson precoce e três pessoas em um grupo controle; depois, houve uma nova rodada de checagem com mais pacientes.
+
+"Nossa técnica nos forneceu uma janela no tempo para ver como os neurônios dopaminérgicos podem ter funcionado desde o início da vida de um paciente", explicou Clive Svendsen, líder do estudo, pesquisador e professor do Cedars-Sinai, em um comunicado à imprensa.
+
+No laboratório, a equipe detectou duas anormalidades importantes nestes neurônios: o acúmulo de uma proteína chamada alfa-sinucleína, presente na maioria das manifestações de Parkinson; e lisossomos defeituosos, estruturas celulares que funcionam como "latas de lixo" para decomposição e descarte de proteínas e material celular. Justamente esse mau funcionamento pode levar ao acúmulo da alfa-sinucleína.
+
+"Parece que os neurônios dopaminérgicos podem continuar a manipular a alfa-sinucleína por um período de 20 ou 30 anos, causando então o surgimento dos sintomas de Parkinson".
+
+Os pesquisadores dizem esperar que, com estas descobertas, um dia possa ser possível detectar — e tratar — o Parkinson preventivamente, inclusive em jovens. No presente estudo, eles também testaram o efeito de alguns medicamentos nos neurônios, observando que alguns foram capazes de reduzir os níveis de alfa-sinucleína na célula.
+
+Agora, os autores do artigo na Nature Medicine querem verificar com a mesma técnica se também há anormalidades detectadas nas células de pacientes com outros perfis, como aqueles com mais de 50 anos de idade.

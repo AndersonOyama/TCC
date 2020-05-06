@@ -1,0 +1,80 @@
+Com pouco mais de 360 mil habitantes, a Islândia tem adotado a estratégia de realizar testes em massa para combater a covid-19. A ação começou no dia 31 de janeiro, cerca de um mês antes de as autoridades locais registrarem o primeiro caso da doença.
+
+Até agora, foram feitos 38.204 testes, atingindo cerca de 10% da população. São 109,5 mil exames por milhão de habitantes, taxa que coloca a nação no topo do ranking de avaliações per capita. No Brasil, são apenas 296 testes por milhão.
+
+Na última semana, um estudo divulgado na prestigiada publicação científica New England Journal of Medicine mostra os resultados da operação islandesa.
+
+Realizado pela deCODE genetics, subsidiaria da biofarmacêutica Amgen, em parceria com a Diretoria de Saúde da Islândia e o National University Hospital, ele aponta que aproximadamente 0,8% da população local está infectada com várias cepas do vírus.
+
+Até o momento, pelos dados do governo islandês, foram 1.739 registros positivos, sendo que oito pessoas morreram. O país tem 587 indivíduos em isolamento, 1.800 em quarentena, 34 hospitalizados por conta da doença e oito recebendo cuidados intensivos. Os considerados curados somam 1.144.
+
+Com essa pesquisa, o objetivo da deCODE genetics e do governo islandês é fornecer uma visão o mais abrangente possível de como o vírus se espalha em uma população, e como a implementação precoce de medidas agressivas de teste, rastreamento e isolamento são fundamentais para conter a epidemia.
+
+Segundo Tatiana Castello Branco, diretora médica da Amgen Brasil, um ponto importante é que o estudo possibilitou colocar em quarentena cidadãos que estavam infectados e não sabiam, por não apresentarem sintomas.
+
+"Cada pessoa, mesmo assintomática, potencialmente tem capacidade para infectar mais três. Ao identificá-las, as autoridades da Islândia rapidamente implementaram mais ações preventivas e ainda conseguiram detectar quem tinha tido contato com esses indivíduos e também isolá-los", avalia.
+Metodologia do estudo
+
+O teste direcionado começou em 31 de janeiro e incluiu pessoas que apresentavam sintomas de infecção por coronavírus (tosse, febre, dores no corpo e falta de ar), que retornavam à Islândia de países ou regiões classificadas pelas autoridades de saúde como de alto risco (áreas montanhosas da China e dos Alpes na Áustria, Itália e Suíça) e que tiveram contato com alguém com a doença.
+
+Nessa etapa, foram realizados 9.199 exames, com 1.221 resultados positivos (13,3%). Para complementar, em 13 de março, a deCODE iniciou a aplicação de testes em voluntários, com sintomas ou não, que se inscreveram para uma triagem gratuita.
+
+Em 1º de abril, 10.797 fizeram o exame, sendo que 87 (0,8%) estavam infectados. Nos quatro dias seguintes, mais 2.283 indivíduos selecionados aleatoriamente foram analisados, e em 13 (0,6%) foi constatada a presença do vírus.
+
+Todos os casos confirmados foram isolados e, seus contatos, identificados e colocados em quarentena doméstica por 14 dias.
+Sequenciamento do vírus
+
+Com o estudo, a deCODE genetics conseguiu sequenciar o vírus de 643 cidadãos islandeses e desenhou uma árvore genealógica dos diferentes haplótipos (cadeias de variantes de sequência) encontrados.
+
+A análise de dados revelou que os haplótipos detectados nos primeiros testes orientados eram quase inteiramente do clado A2, originário da Áustria e da Itália, e entraram na Islândia com pessoas retornando de férias em estações de esqui.
+
+Já os casos identificados nos testes mais recentes e na triagem populacional mostraram que vários haplótipos do clado A1, dominantes em países como o Reino Unido, se tornaram mais comuns e que, agora, existe uma ampla e crescente variedade de haplótipos presentes na população do país.
+
+"Isso sugere que o vírus entrou na Islândia proveniente de muitos países, incluindo aqueles que, no início, eram considerados de baixo risco, e mostra para a comunidade científica que não dá para focar em apenas em um aspecto e o quão importante é considerar a quarentena na população geral", analisa Castello Branco.
+
+A diretora médica da Amgen Brasil destaca que a uma das utilidades do sequenciamento do vírus é que ele permite identificar os contatos e as infecções adicionais provenientes de casos confirmados.
+Principais resultados
+
+Segundo a pesquisa, nos primeiros testes, 65% dos participantes que apresentaram resultado positivo haviam viajado para fora do país, e, na fase posterior, 15,5%. Na triagem populacional, foram 23%.
+
+Dentre os que participaram da etapa inicial do teste direcionado, 40,1% dos testados positivamente relataram ter tido contato com uma pessoa infectada conhecida, em comparação com 60,2% na fase posterior.
+
+No grupo de triagem populacional, o índice foi de 6,9%, provavelmente porque as pessoas infectadas e seus contatos já estavam isolados e, portanto, não eram elegíveis para fazer o exame.
+
+Os sintomas da doença foram informados por 93% dos componentes do grupo de testes direcionados e por 57% dos do grupo de rastreamento populacional.
+
+Na análise combinada dos resultados, também foi constatado que crianças e mulheres são, em geral, menos suscetíveis à infecção do que adolescentes e homens adultos.
+
+Na triagem direcionada, a porcentagem de pessoas do sexo masculino que deram positivo foi 16,7% e a do feminino, 11%. Na populacional, a diferença relativa foi semelhante: 0,9% e 0,6%, respectivamente.
+
+Das 564 crianças com menos de 10 anos do grupo alvo de testes, 38 (6,7%) apresentaram resultados positivos. Acima dessa idade, foram 1.183 (13,7%).
+
+No grupo de triagem populacional, a diferença foi ainda mais acentuada: nenhuma das 848 crianças menores de 10 anos foi diagnosticada com a doença, em comparação com 100 de 12.232 pessoas (0,8%) acima de 10 anos.
+Ações adotadas pelo governo islandês
+
+Além de massificar os testes para o coronavírus precocemente e isolar as pessoas que tiveram testes positivos, bem como as que tiveram contato com elas, o governo da Islândia tomou uma série de outras medidas para evitar a disseminação do vírus.
+
+Inicialmente, proibiu aglomerações com mais de 100 pessoas — depois o número diminuiu para 20 —, tanto em espaços públicos quanto privados, e determinou distanciamento social de, pelo menos, 2 metros. Também fechou faculdades; somente creches e escolas primárias continuam abertas.
+
+Para proteger os idosos e outros grupos com maior risco de doenças graves da covid-19, promoveu o autoisolamento e cancelou visitas a casas de repouso e hospitais.
+
+As autoridades islandesas não restringiram as viagens internacionais, mas exigiram que os islandeses que retornassem de outros países entrassem em quarentena. Em 19 de março, todas as viagens para fora da Islândia foram designadas como de alto risco.
+
+Nas empresas e outros locais de trabalho, mais de 20 pessoas não devem ocupar o mesmo espaço simultaneamente. Isso inclui transporte público e atividades similares.
+
+Mercearias e farmácias estão isentas dessa regra, podendo receber até 100 clientes por vez, desde que a distância interpessoal de 2 metros seja garantida.
+
+Piscinas, academias, bares, casas noturnas e museus estão fechados. E atividades e serviços que exijam contato interpessoal próximo, proibidos — isso inclui atividades esportivas e salões de beleza.
+
+Com essas medidas, o objetivo do governo islandês, como informa a Diretoria de Saúde e o Departamento de Proteção Civil e Gerenciamento de Emergências, não é apenas evitar a disseminação do vírus, mas também aliviar a carga sobre o sistema de saúde ao longo do tempo.
+
+Isso significa que o país prefere uma carga mais baixa por um tempo maior do que uma carga mais alta por um período mais curto, para que os hospitais não sejam sobrecarregados e toda a população seja atendida.
+Anticorpos neutralizantes
+
+Com base no estudo e no banco de dados da deCode genetics, a Amgen e a Adaptive Biotechnologies anunciaram uma colaboração para ajudar a combater a pandemia da covid-19.
+
+Nesse sentido, as empresas combinarão seus aprendizados para descobrir e desenvolver anticorpos neutralizantes totalmente humanos direcionados ao vírus.
+
+Como explica Castello Branco, eles protegem células saudáveis, interferindo na função biológica de um vírus invasor, e podem ser usados terapêutica e preventivamente.
+
+"O próximo passo será identificar os anticorpos dos islandeses que se recuperaram totalmente da covid-19 para escolher aqueles que neutralizam o vírus. Obtendo resultados positivos, será iniciada a sua produção", completa a diretora médica.
