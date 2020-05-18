@@ -36,11 +36,23 @@ def main(dir):
 
     worksheet.write(0, 0, 'Texto')
     worksheet.set_column(0, 0, 50)
+
     worksheet.write(0, 1, 'Palavras erradas')
     worksheet.set_column(1, 1, 100)
+
     worksheet.write(0, 2, 'Porcentagem de erro ortográfico')
     worksheet.set_column(2, 2, 30, percent_fmt)
 
+    worksheet.write(0, 3, 'Quantidade de palavras')
+    worksheet.set_column(3, 3, 100)
+
+    worksheet.write(0, 4, 'Quantidade de paragrafos')
+    worksheet.set_column(4, 4, 80)
+
+    worksheet.write(0, 5, 'Solicita compartilhamento?')
+    worksheet.set_column(5, 5, 60)
+
+    
 
     for i in files:
         worksheet.write(row, column, i)
