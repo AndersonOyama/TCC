@@ -4,6 +4,29 @@ VERDADEIRAS:
 *Chá de salsa limpa os rins - https://www.saude.gov.br/fakenews/46346-cha-de-salsa-limpa-os-rins-e-verdade - https://www.solbrilhando.com.br/Saude/Como_limpar_os_rins.htm
 *Cera do ouvido indicam câncer - https://www.saude.gov.br/fakenews/46335-cera-do-ouvido-indicam-cancer-e-verdade - https://g1.globo.com/go/goias/noticia/2019/08/31/pesquisa-da-ufg-aponta-que-cera-do-ouvido-ajuda-no-diagnostico-precoce-do-cancer.ghtml
 *Sinais que ajudam a identificar um AVC - https://www.saude.gov.br/fakenews/45266-sinais-que-ajudam-a-identificar-um-avc-e-verdade - https://noticiasinterativas.com.br/4-passos-para-salvar-alguem-de-um-avc/
+*Não há comprovação que curados da COVID-19 sejam imunes à doença, diz OMS - https://www.cnnbrasil.com.br/saude/2020/04/25/nao-ha-comprovacao-que-curados-da-covid-19-sejam-imunes-a-doenca-diz-oms
+*'Pneumonia silenciosa' que dificulta diagnóstico de casos graves de covid-19 intriga médicos: 'Eles falavam no celular' - https://www.bbc.com/portuguese/brasil-52407454
+*Coronavírus: corpos dos mortos por covid-19 podem transmitir a doença? - https://www.bbc.com/portuguese/geral-52395178
+*Estudo na Islândia indica eficácia de isolamento, distanciamento social e testagem em massa para conter covid-19 - https://www.bbc.com/portuguese/internacional-52332237
+*Coronavírus: 4 fatores que explicam o impacto da covid-19 nos EUA, país com maior número de infectados e mortos - https://www.bbc.com/portuguese/internacional-52280762
+*Por que o H1N1 não parou economias como a pandemia de coronavírus? - https://www.bbc.com/portuguese/internacional-52078906
+*Coronavírus: os 4 pilares para manter a imunidade em dia - https://www.bbc.com/portuguese/geral-51937410
+*Os sinais que indicam nova alta da dengue no Brasil em 2020 - https://www.bbc.com/portuguese/brasil-51667748
+*O método revolucionário que revelou um antibiótico capaz de matar as bactérias mais perigosas - https://www.bbc.com/portuguese/geral-51635010
+*Brasil é principal mercado de agrotóxicos 'altamente perigosos', diz ONG - https://www.bbc.com/portuguese/geral-51597054
+*Cortar completamente carne e laticínios faz bem à saúde? O que diz a ciência - https://www.bbc.com/portuguese/vert-fut-51522159
+*O que as bebidas energéticas prometem e como realmente impactam a saúde - https://www.bbc.com/portuguese/geral-51580835
+*Mal de Parkinson pode 'começar' antes do nascimento, diz estudo - https://www.bbc.com/portuguese/geral-51275457
+*Ministério da Saúde alerta Sul e Sudeste sobre febre amarela - https://www.saude.gov.br/noticias/agencia-saude/46198-ministerio-da-saude-alerta-sul-e-sudeste-sobre-febre-amarela
+*Hemofilia: conheça doença que afeta quase exclusivamente homens  - https://www.saude.gov.br/noticias/agencia-saude/46187-hemofilia-conheca-doenca-que-afeta-quase-exclusivamente-homens
+*Fibrose cística é genética e mais comum na infância - https://www.saude.gov.br/noticias/agencia-saude/46161-fibrose-cistica-e-genetica-e-mais-comum-na-infancia
+*SARAMPO: Brasil atinge 99,4% de cobertura vacinal em 2019  - https://www.saude.gov.br/noticias/agencia-saude/46146-sarampo-brasil-atinge-99-4-de-cobertura-vacinal-em-2019
+*Pacientes com doença genética terão tratamento específico no SUS - https://www.saude.gov.br/noticias/agencia-saude/46137-pacientes-com-doenca-genetica-terao-tratamento-especifico-no-sus
+*Mosquitos do ‘bem’ combatem a dengue - https://www.saude.gov.br/noticias/agencia-saude/46104-mosquitos-do-bem-combatem-a-dengue
+*Tuberculose: novo medicamento reduz tempo de tratamento pela metade - https://www.saude.gov.br/noticias/agencia-saude/46087-tuberculose-novo-medicamento-reduz-tempo-de-tratamento-pela-metade
+*Ministério da Saúde habilita mais 92 leitos para combate ao coronavírus  - https://www.saude.gov.br/noticias/agencia-saude/46744-ministerio-da-saude-habilita-mais-92-leitos-para-combate-ao-coronavirus
+*Ministério da Saúde antecipa vacinação contra Influenza para os Povos Indígenas - https://www.saude.gov.br/noticias/agencia-saude/46737-ministerio-da-saude-antecipa-vacinacao-contra-influenza-para-os-povos-indigenas
+*Ministério da Saúde supera meta e vacina 90,66% dos idosos - https://www.saude.gov.br/noticias/agencia-saude/46733-ministerio-da-saude-supera-meta-e-vacina-90-66-dos-idosos
 
 
 
@@ -44,3 +67,9 @@ FALSAS:
 *Uso do celular no escuro e câncer de olho - https://www.saude.gov.br/fakenews/44324-uso-do-celular-no-escuro-e-cancer-de-olho-fake-news - https://www.facebook.com/OticasDiamante/photos/maculopatia-c%C3%A2ncer-do-olho-cuidado-mesmo-que-tenha-102030-ou-at%C3%A9-menos-anos-de-v/650328422027595/#
 *Beber água antes de pintar o cabelo - https://www.saude.gov.br/fakenews/44425-beber-agua-antes-de-pintar-o-cabelo-fake-news - https://www.facebook.com/rainhasrosas/posts/1139143956171948
 *Efeitos da glândula da próstata - https://www.saude.gov.br/fakenews/44192-efeitos-da-glandula-da-prostata-fake-news - https://blogdovavadaluz.com/sem-categoria/medicina-e-saude-a-glandula-da-prostata-e-seu-efeito-sobre-nos-somente-homens
+*Cloroquina e hidroxicloroquina passam a ser usadas no Brasil para combater coronavírus - https://www.saude.gov.br/fakenews/46706-cloroquina-e-hidroxicloroquina-passam-a-ser-usadas-no-brasil-para-combater-coronavirus-e-fake-news - https://www.facebook.com/872744816165817/posts/2790355957738017/
+*Beber água de 15 em 15 minutos cura o coronavírus - https://www.saude.gov.br/fakenews/46654-beber-agua-de-15-em-15-minutos-cura-o-coronavirus-e-fake-news - https://www.boatos.org/saude/beber-agua-15-em-15-minutos-previne-o-novo-coronavirus.html
+*Chá de limão com bicarbonato quente cura coronavírus - https://www.saude.gov.br/fakenews/46652-cha-de-limao-com-bicarbonato-quente-cura-coronavirus-e-fake-news - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&cad=rja&uact=8&ved=2ahUKEwjzmqKtlvjoAhVZIbkGHa1VBTsQFjAFegQIBxAB&url=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fid%3D662051554130925%26story_fbid%3D1206924482976960&usg=AOvVaw0OfdnvTxiaDMirpZLirBZ9
+*Tomar ou bebidas quentes para matar o coronavírus - https://www.saude.gov.br/fakenews/46577-tomar-ou-bebidas-quentes-para-matar-o-coronavirus-e-fake-news - https://es-la.facebook.com/intecabsp1/posts/2432699366831241?__tn__=K-R
+*Coronavírus morre a 26º C - https://www.saude.gov.br/fakenews/46576-coronavirus-morre-a-26-c-e-fake-news - https://m.facebook.com/story.php?story_fbid=3227255067304278&id=231824896847325
+*Água ou chá quente mata o coronavírus - https://www.saude.gov.br/fakenews/46515-agua-ou-cha-quente-mata-o-coronavirus-e-fake-news - https://hi-in.facebook.com/pointda22g/posts/972100339852110/

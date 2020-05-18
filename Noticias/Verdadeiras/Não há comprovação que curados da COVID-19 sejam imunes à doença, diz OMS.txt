@@ -1,0 +1,17 @@
+A Organização Mundial da Saúde (OMS) afirmou, na sexta-feira, 24, que ainda não há evidências científicas suficientes para afirmar que pessoas que se recuperaram do novo coronavírus estão imunes à doença. O comunicado se refere especialmente a governantes que têm defendido a criação de um "passaporte da imunidade" ou "certificado de risco zero" para que ex-pacientes recuperados sejam excluídos de medidas de restrição de mobilidade durante a pandemia da COVID-19.
+
+Essa medida já foi citada pelo ministro da Economia, Paulo Guedes, como forma de retomar atividades não essenciais nos locais que adotaram medidas de isolamento social.
+
+"As pessoas que assumem que estão imunes a uma segunda infecção porque receberam um resultado positivo no teste podem ignorar os conselhos de saúde pública. O uso de tais certificados pode, portanto, aumentar os riscos de transmissão continuada", ressalta a organização.
+
+A agência lembra que o desenvolvimento da imunidade contra uma doença através de uma infecção natural é um processo de várias etapas, que geralmente ocorre de uma a duas semanas. Ela pondera contudo, que, até 24 de abril, nenhum estudo concluiu que a presença de anticorpos confere imunidade ao novo coronavírus em humanos.
+
+"A OMS continua revisando as evidências da respostas de anticorpos à infecção por SARS-CoV-2 (vírus da COVID-19). A maioria desses estudos mostra que as pessoas que se recuperaram da infecção têm anticorpos para o vírus", diz o comunicado. "No entanto, algumas dessas pessoas têm níveis muito baixos de anticorpos neutralizantes no sangue, sugerindo que a imunidade celular também pode ser crítica para a recuperação."
+
+"Testes de laboratório que detectam anticorpos para SARS-CoV-2 em pessoas, incluindo testes rápidos de imunodiagnóstico, precisam de validação adicional para determinar sua precisão e confiabilidade", pontua a OMS.
+
+"Os testes imunodiagnósticos imprecisos podem categorizar falsamente as pessoas de duas maneiras. A primeira é que eles podem rotular falsamente as pessoas que foram infectadas como negativas e, a segunda, é que as pessoas que não foram infectadas são falsamente rotuladas como positivas. Ambos os erros têm sérias conseqüências e afetarão os esforços de controle."
+
+A OMS ressalta, ainda, que os testes precisam distinguir o SARS-CoV-2 dos outros seis coronavírus humanos conhecidos (dos quais, quatro causam o resfriado comum e têm ampla circulação mundial, enquanto os outros dois causam a Síndrome Respiratória no Oriente Médio e a Síndrome Respiratória Aguda Grave). "Pessoas infectadas por qualquer um desses vírus podem produzir anticorpos que reagem de maneira cruzada com anticorpos produzidos em resposta à infecção por SARS-CoV-2."
+
+A organização também afirma apoiar as iniciativas de diversos países de testagem de anticorpos do novo coronavírus na população, por ajudar a entender a extensão da pandemia e os fatores de risco associados à doença, mas faz uma ressalva: "Esses estudos fornecerão dados sobre a porcentagem de pessoas com anticorpos da COVID-19 detectáveis, mas a maioria não foi projetada para determinar se essas pessoas são imunes a infecções secundárias."
