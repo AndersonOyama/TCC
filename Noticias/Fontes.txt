@@ -40,6 +40,32 @@ VERDADEIRAS:
 *O que é melhor para a saúde, leite de vaca ou ‘alternativos’? - https://www.bbc.com/portuguese/vert-fut-50636322
 *O inovador método de imunoterapia que traz esperanças para pacientes com câncer avançado na próstata - https://www.bbc.com/portuguese/geral-50584710
 *Nova técnica de edição de DNA poderá curar até '89% das doenças genéticas' no futuro - https://www.bbc.com/portuguese/geral-50133350
+*Relatório da OMS sobre tabaco destaca Brasil - https://portal.fiocruz.br/noticia/relatorio-da-oms-sobre-tabaco-destaca-brasil
+*Câncer: pesquisa analisa a influência da poluição na internação pela doença - https://portal.fiocruz.br/noticia/cancer-pesquisa-analisa-influencia-da-poluicao-na-internacao-pela-doenca
+*Câncer de mama: a importância do diagnóstico precoce - https://portal.fiocruz.br/noticia/cancer-de-mama-importancia-do-diagnostico-precoce
+*Relatório confirma tendência de crescimento de casos de Síndrome Respiratória Aguda Grave - https://portal.fiocruz.br/noticia/relatorio-confirma-tendencia-de-crescimento-de-casos-de-sindrome-respiratoria-aguda-grave
+*Antiviral para hepatite C atua contra febre amarela e chikungunya - https://portal.fiocruz.br/noticia/antiviral-para-hepatite-c-atua-contra-febre-amarela-e-chikungunya
+*Dengue na gravidez pode causar má-formação do cérebro do bebê - https://portal.fiocruz.br/noticia/dengue-na-gravidez-pode-causar-ma-formacao-do-cerebro-do-bebe
+*Estudo aponta que dengue aumenta risco de morte materna - https://portal.fiocruz.br/noticia/estudo-aponta-que-dengue-aumenta-risco-de-morte-materna
+*Aedes aegypti pode ser coinfectado por dengue e zika - https://portal.fiocruz.br/noticia/aedes-aegypti-pode-ser-coinfectado-por-dengue-e-zika
+*Dengue pode representar um risco à vida do feto, alerta pesquisa - https://portal.fiocruz.br/noticia/dengue-pode-representar-um-risco-vida-do-feto-alerta-pesquisa
+*Estudo na Amazônia usa próprios mosquitos para disseminar larvicida - https://portal.fiocruz.br/noticia/estudo-na-amazonia-usa-proprios-mosquitos-para-disseminar-larvicida
+*Taxa de incidência de diabetes cresceu 61,8% nos últimos 10 anos - https://portal.fiocruz.br/noticia/taxa-de-incidencia-de-diabetes-cresceu-618-nos-ultimos-10-anos
+*Diabetes: pesquisa aponta que microbiota pode ajudar na redução de açúcar no sangue - https://portal.fiocruz.br/noticia/diabetes-pesquisa-aponta-que-microbiota-pode-ajudar-na-reducao-de-acucar-no-sangue
+*Bactéria causadora da meningite e pneumonia terá o genoma sequenciado - https://portal.fiocruz.br/noticia/bacteria-causadora-da-meningite-e-pneumonia-tera-o-genoma-sequenciado
+*SUS oferta novo tratamento para pacientes com degeneração macular - https://www.saude.gov.br/noticias/agencia-saude/45064-sus-ofertara-novo-tratamento-para-denegeracao-macular
+*Ministério da Saúde lança campanha para conter avanço de HIV em homens - https://www.saude.gov.br/noticias/agencia-saude/45246-ministerio-da-saude-lanca-campanha-para-conter-avanco-de-hiv-em-homens
+*Febre amarela: população do Sul e Sudeste deve buscar vacina - https://www.saude.gov.br/noticias/agencia-saude/45213-febre-amarela-populacao-do-sul-e-sudeste-deve-buscar-vacina
+*Pesquisa relata impactos na vida de pacientes de câncer - https://www.saude.gov.br/noticias/agencia-saude/45176-pesquisa-do-inca-relata-impactos-na-vida-de-pacientes-curados-do-cance
+*Criança sem cicatriz vacinal não precisa revacinar contra tuberculose - https://www.saude.gov.br/noticias/agencia-saude/45177-crianca-sem-cicatriz-vacinal-nao-precisa-revacinar-contra-tuberculose
+*Saúde amplia rol de tratamento para pacientes com câncer renal - https://www.saude.gov.br/noticias/agencia-saude/45144-saude-amplia-rol-de-tratamento-para-pacientes-com-cancer-renal
+*Medicamento para esclerose múltipla dará maior qualidade de vida aos pacientes - https://www.saude.gov.br/noticias/agencia-saude/45084-medicamento-para-esclerose-multipla-no-sus-dara-maior-qualidade-de-vida-aos-pacientes
+*Ministério da Saúde atualiza casos de sarampo - https://www.saude.gov.br/noticias/agencia-saude/45089-ministerio-da-saude-atualiza-casos-de-sarampo-19
+*Picada de escorpião: saiba os cuidados e o que fazer em caso de acidente - https://www.saude.gov.br/noticias/agencia-saude/45090-picada-de-escorpiao-saiba-os-cuidados-e-o-que-fazer-em-caso-de-acidente
+
+
+
+
 
 FALSAS:
 
@@ -85,3 +111,9 @@ FALSAS:
 *Coronavírus morre a 26º C - https://www.saude.gov.br/fakenews/46576-coronavirus-morre-a-26-c-e-fake-news - https://m.facebook.com/story.php?story_fbid=3227255067304278&id=231824896847325
 *Água ou chá quente mata o coronavírus - https://www.saude.gov.br/fakenews/46515-agua-ou-cha-quente-mata-o-coronavirus-e-fake-news - https://hi-in.facebook.com/pointda22g/posts/972100339852110/
 *Café previne o coronavírus - https://www.saude.gov.br/fakenews/46705-cafe-previne-o-coronavirus-e-fake-news - https://www.boatos.org/saude/cafe-ou-cha-curam-e-previnem-coronavirus.html
+*É #FAKE que uso prolongado de máscara contra o coronavírus leva a quadro de intoxicação e baixa oxigenação do organismo - https://g1.globo.com/fato-ou-fake/coronavirus/noticia/2020/05/05/e-fake-que-uso-prolongado-de-mascara-contra-o-coronavirus-leva-a-quadro-de-intoxicacao-e-baixa-oxigenacao-do-organismo.ghtml - https://www.facebook.com/Leituramsgs/posts/920174365062622
+*É #FAKE que pesquisa mostra que vapor de eucalipto protege ambientes do coronavírus - https://g1.globo.com/fato-ou-fake/coronavirus/noticia/2020/05/05/e-fake-que-pesquisa-mostra-que-vapor-de-eucalipto-protege-ambientes-do-coronavirus.ghtml - https://www.facebook.com/380685806017324/posts/682216082530960/
+*É #FAKE que Bill Gates financie vacina não líquida contra a Covid-19 que instala chip nas pessoas - https://g1.globo.com/fato-ou-fake/coronavirus/noticia/2020/05/28/e-fake-que-bill-gates-financie-vacina-nao-liquida-contra-a-covid-19-que-instala-chip-nas-pessoas.ghtml - https://m.facebook.com/story.php?story_fbid=10213470241429800&id=1813732766
+*É #FAKE que Tasuku Honjo, Nobel de Medicina em 2018, disse que coronavírus foi criado por cientistas - https://g1.globo.com/fato-ou-fake/coronavirus/noticia/2020/04/29/e-fake-que-tasuku-honjo-nobel-de-medicina-em-2018-disse-que-coronavirus-foi-criado-por-cientistas.ghtml - https://www.facebook.com/455396771289944/posts/1550322305130713/
+*É #FAKE que tomar própolis repele mosquito da febre amarela - https://g1.globo.com/fato-ou-fake/noticia/2020/02/05/e-fake-que-tomar-propolis-repele-mosquito-da-febre-amarela.ghtml - https://www.facebook.com/armazemdanona/posts/2382867165333249
+*É #FAKE que governo americano libera consumo de colesterol e afirma que excesso não faz mal à saúde - https://g1.globo.com/fato-ou-fake/noticia/2019/07/01/e-fake-que-governo-americano-libera-consumo-de-colesterol-e-afirma-que-excesso-nao-faz-mal-a-saude.ghtml - https://clinicamauriciofreire.com.br/2019/05/06/colesterol-nao-e-um-nutriente-de-preocupacao/

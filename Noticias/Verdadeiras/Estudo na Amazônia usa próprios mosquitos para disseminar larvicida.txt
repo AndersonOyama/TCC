@@ -1,0 +1,23 @@
+Os próprios mosquitos transmissores dos vírus zika, dengue, chikungunya ou febre amarela podem atuar no controle de surtos epidêmicos dessas doenças, aponta estudo de pesquisadores da Fiocruz Amazônia. Os ensaios foram realizados em Manacapuru (AM), durante dois anos -  de fevereiro de 2014 a janeiro de 2016. O resultado foi surpreendente, pois em 15 dias ficaram evidentes as mudanças na população de mosquitos de toda a cidade.
+
+No estudo, os pesquisadores Fernando Abad-Franch, Elvira Zamora-Perea e Sérgio Luiz Bessa Luz, do Instituto Leônidas & Maria Deane/Fiocruz Amazônia, verificaram a capacidade de utilização dos próprios mosquitos para disseminar o larvicida Pyriproxyfen em criadouros aquáticos, por meio de uma espécie de armadilha, chamada de estação disseminadora de larvicida. A conclusão foi de que, mesmo sob cenários adversos, a estratégia pode tornar-se uma importante ferramenta para melhorar a saúde pública global, sinalizando novos caminhos na prevenção de doenças transmitidas por mosquitos. A pesquisa foi publicada recentemente na PLOS Medicine, intitulado Mosquito-Disseminated Insecticide for Citywide Vector Control and Its Potential to Block Arbovirus Epidemics: Entomological Observations and Modeling Results from Amazonian Brazil.
+
+Metodologia
+
+Para a pesquisa foram selecionadas 100 habitações em Manacapuru, distribuídas uniformemente pela cidade, para a vigilância de mosquitos, como criadouros sentinela, monitorando as populações locais de mosquitos, por um ano. Depois, foram distribuídas por toda a cidade mil estações disseminadoras de larvicida – recipientes com as paredes cobertas por um pano preto, tratado com pó de Pyriproxyfen. As estações disseminadoras continham um pouco de água para atrair as fêmeas dos mosquitos.
+
+As mudanças na população de mosquitos foram percebidas 15 dias após a distribuição das estações disseminadoras. O número de larvas de Aedes nos criadouros sentinela caiu em 80-90%, e a mortalidade das larvas aumentou para 80-90% durante a disseminação de Pyriproxyfen. O número de mosquitos adultos emergindo dos criadouros despencou em mais de 95% na cidade inteira, de forma que a emergência de fêmeas de Aedes caiu de 500-600 por mês antes da intervenção, para um mínimo de uma única fêmea no sexto mês de disseminação.
+
+Por fim, os pesquisadores usaram modelos matemáticos para investigar o impacto potencial desta drástica redução da emergência de fêmeas de Aedes na cidade. O número de fêmeas de Aedes na localidade simplesmente não seria suficiente para manter a transmissão do vírus, e o surto desapareceria rapidamente, sem alcançar dimensões de epidemia.
+
+Política pública
+
+Os autores do trabalho destacam que novos testes devem ser feitos, incluindo cidades maiores e cenários ecológicos e socioeconômicos diversos. É também essencial medir diretamente o impacto da intervenção na transmissão de doenças, para comprovar se as predições dos modelos matemáticos se ajustam à realidade.
+
+Portanto, novos ensaios ocorrerão ainda em 2017, com pesquisadores da Fiocruz trabalhando em parceria e com financiamento do Ministério da Saúde - por meio do Departamento de Ciência e Tecnologia, e do Programa Nacional de Controle da Dengue (Decit & PNCD) -, do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), da Organização Pan-Americana da Saúde-Organização Mundial da Saúde (Opas-OMS) e com apoio de secretarias municipais e estaduais de Saúde, em diferentes regiões do Brasil.
+
+Com isso, as estações de disseminação de larvicida serão usadas em seis cidades da Amazônia: Boa Vista (RR), Tabatinga (AM), Tefé (AM), Parintins (AM), São Gabriel da Cachoeira (AM) e Borba (AM). Da mesma forma, cinco capitais e um munícipio de São Paulo também receberão as Estações Disseminadoras: Natal, Fortaleza, Recife, Belo Horizonte, Rio de Janeiro e Marília. Se estes ensaios em larga escala confirmarem os resultados obtidos até agora, a estratégia (simples e de baixa complexidade tecnológica) do “autocontrole” dos mosquitos, por meio do Pyriproxyfen, poderá se transformar numa ferramenta crucial para a melhora da saúde pública global.
+
+Para o pesquisador Sérgio Luz, o resultado da pesquisa foi animador, mas a oportunidade de transformar o conhecimento obtido com o estudo em política pública, é o principal ganho do trabalho. “Estamos muito contentes com todas essas conquistas, principalmente por termos desenhado, desenvolvido e executado essa pesquisa por meio da Fiocruz Amazônia”, comenta.
+
+A pesquisa realizada em Manacapuru (AM) contou com recursos da Fundação Oswaldo Cruz (Fiocruz) e apoio da Fundação de Vigilância em Saúde do Amazonas (FVS), da Prefeitura e Secretaria Municipal de Saúde de Manacapuru, e da Fundação de Amparo à Pesquisa do Amazonas (Fapeam).

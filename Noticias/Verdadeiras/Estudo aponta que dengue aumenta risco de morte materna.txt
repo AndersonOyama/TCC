@@ -1,0 +1,27 @@
+
+
+A dengue coloca um quarto da população mundial sob riscos de saúde, de acordo com a Organização Mundial da Saúde (OMS). Um estudo indica que atenção à mulher grávida infectada com dengue deve ser ainda maior, devido ao risco de morte ser três vezes maior do que em gestantes sem a doença. O risco de óbito materno chega a ser 450 vezes maior quando a mulher possui dengue hemorrágica, a forma mais grave da infecção.
+
+O artigo tem como principal autora a epidemiologista Enny Paixão, pesquisadora do Centro de Integração de Dados e Conhecimento para Saúde (Cidacs/Fiocruz Bahia), e foi publicado com o título Dengue in pregnancy and maternal mortality: a cohort analysis using routine data no periódico Scientific Reports, da Nature.
+
+O estudo faz parte da tese de doutorado de Paixão, realizado na London School Hygiene of Tropical Medicine, sob a orientação da professora Laura Rodrigues. No ano passado, a pesquisa conduzida por Paixão já havia relacionado à dengue durante a gestação com o aumento do risco de óbito fetal. Além do Cidacs/Fiocruz Bahia, da London School, a pesquisa foi feita com a participação também de pesquisadores do Instituto de Saúde Coletiva (ISC) da Universidade Federal da Bahia (Ufba).
+
+Metodologia
+
+Para obter essas evidências, a pesquisa usou dados obtidos de bases governamentais, os chamados dados administrativos, dos Sistema de Informação sobre Nascidos Vivos (Sinasc), o Sistema de Informação de Agravos de Notificação (Sinan) e Sistema de Informação sobre Mortalidade (SIM). O estudo foi realizado por meio de técnica denominada linkage probabilístico, em que as informações (como nome e data de nascimento) de diferentes bases são cruzadas com o intuito de encontrar o mesmo indivíduo.
+
+No período entre 1º de janeiro de 2007 e 31 de dezembro de 2012, houve 10.259 registros de óbitos maternos por diferentes causas. Para compor a amostra estudada, foram excluídas os registros de mulheres com diagnóstico de aborto ou com os óbitos fetais (pois o grupo de comparação eram nascidos vivos), os óbitos de mulheres que não foram associadas nem com os óbitos fetais, nem com os nascidos vivos,  e aqueles que não havia como atribuir a situação de dengue ou não. Assim ao final foram utilizados 4.053 mortes maternas e 17.391.826 nascidos vivos como grupo comparação.
+
+Relevância
+
+Os resultados encontrados no estudo demonstram a importância de priorizar os exames de diagnóstico de dengue durante o periodo gestacional. Quando a dengue foi diagnosticada por análise dos sintomas, esse grupo revelou três vezes mais riscos de morte. Já quando o diagnóstico foi confirmado por exame laboratorial, esse risco aumentou em oito vezes.
+
+Já quando a paciente apresentou o quadro de dengue hemorrágica confirmado por análise laboratorial, houve o aumento de mortalidade materna em 450 vezes. Os autores destacam que mudanças fisiológicas na gestação podem mascarar sintomas de dengue hemorrágica, dificultando o diagnóstico. Isso implica que, provavelmente, há casos de dengue hemorrágica que chegaram ao óbito sem serem diagnosticados.
+
+O estudo também observou que pré-eclâmpsia e eclâmpsia, complicações associadas ao descontrole da pressão arterial na gravidez, eram mais frequentes no grupo com dengue. “No nosso estudo achamos que a frequência dessas complicações foi maior no grupo com dengue do que no grupo comparação, mas outros estudos precisam ser feitos para verificar essa relação”, afirmou a pesquisadora Enny Paixão. “Quando a infecção for diagnosticada, a paciente deve ser acompanhada de perto para se evitar o óbito”, diz.
+
+Mortes maternas
+
+Para o estudo, foi utilizada a definição da 10ª revisão da Classificação Internacional de Doença (CID-10) em que é considerada morte materna “a morte de uma mulher durante a gestação ou dentro de um período de 42 dias após o término da gestação, independentemente da duração ou da localização da gravidez, devida a qualquer causa relacionada com ou agravada pela gravidez ou por medidas em relação a ela, porém não devida a causas acidentais ou incidentais”, em conformidade com a OMS.
+
+Reduzir a mortalidade materna é um Objetivos de Desenvolvimento do Milênio (ODM). No Brasil, de acordo com a publicação Saúde Brasil: 2017 – Uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvimento Sustentável, houve um aumento na vigilância de houve um aumento na investigação da morte materna o percentual de incremento de óbitos maternos entre a notificação do óbito e a classificação obtida após a investigação tem se mostrado inconstante entre as unidades da Federação ao longo dos anos. No Brasil, em 2015, o incremento foi de 28%, sendo os maiores incrementos observados na Região Sudeste (35%) e Nordeste (28%).
