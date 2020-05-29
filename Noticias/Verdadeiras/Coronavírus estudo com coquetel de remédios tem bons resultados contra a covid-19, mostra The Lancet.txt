@@ -1,0 +1,47 @@
+A nova edição do periódico médico Lancet trará neste sábado (9) resultados "animadores" de testes clínicos com uma combinação tripla das substâncias interferon beta 1-b, lopinavir-ritonavir e ribavirin em 127 pacientes adultos diagnosticados com covid-19 e tratados em seis hospitais públicos de Hong Kong.
+
+Por ser um estudo do tipo clínico randomizado controlado; por já envolver testes com humanos; e por ter passado pelo peer review (uma revisão independente por especialistas que não são os mesmos a assinar o artigo), trata-se de uma publicação com critérios de excelência na pesquisa científica.
+
+O artigo, assinado por mais de 40 cientistas liderados pelo professor da Universidade de Hong Kong Kwok-Yung Yuen, mostra que a combinação tripla eliminou o coronavírus em média sete dias após o início do tratamento — tempo significativamente menor do que o grupo controle, que foi tratado apenas com lopinavir-ritonavir e precisou de 12 dias para que o vírus não pudesse mais ser detectado em teste molecular RT-PCR.
+
+O grupo que recebeu a combinação interferon beta 1-b, lopinavir-ritonavir e ribavirin tinha 86 pacientes; e o grupo controle, 41.
+
+Os autores também perceberam melhores resultados da combinação tripla no tempo para desaparecimento de sintomas (quatro dias, versus oito no grupo controle); e para alta do hospital (nove dias versus 14,5).
+
+Cautela com os resultados
+
+Os pacientes envolvidos tinham casos leves e moderados de covid-19 e receberam tratamento por 14 dias. Os efeitos adversos foram considerados leves e semelhantes nos dois grupos (relatado por cerca de metade dos participantes de cada grupo), incluindo principalmente diarreia, febre e náuseas.
+
+Os efeitos adversos foram considerados leves e semelhantes nos dois grupos (relatado por cerca de metade dos participantes de cada grupo), incluindo principalmente diarreia, febre e náuseas.
+
+"Apesar destes resultados animadores, precisamos confirmar em uma fase mais ampla, a 3, que o interferon beta-1b sozinho ou em combinação com outros medicamentos é eficaz em doentes mais graves", afirmou Kwok-Yung Yuen em comunicado à imprensa.
+
+Os resultados divulgados agora correspondem ao que é classificado como fase 2 de estudos clínicos, envolvendo algumas centenas de pacientes doentes com a patologia para a qual se busca tratamento.
+
+Ele também é caracterizado como um estudo randomizado controlado porque as pessoas testadas foram divididas aleatoriamente em um grupo que recebe o tratamento em questão; e um grupo controle, que recebe outro tratamento — neste caso, a combinação lopinavir-ritonavir, apenas.
+
+Os pacientes são recrutados aleatoriamente para evitar que haja um viés de confirmação (uma tendência de interpretar ou orientar os resultados de modo que confirme a hipótese inicial ou as certezas do pesquisador).
+
+Outra característica deste estudo é que ele foi open label, ou seja, tanto os pesquisadores quanto participantes tinham conhecimento dos tratamentos recebidos e não havia um grupo recebendo placebo — isto é considerado uma limitação pelos próprios autores.
+
+Os 127 pacientes envolvidos foram diagnosticados com covid-19 através de testes e foram internados entre 10 de fevereiro e 20 de março — em Hong Kong, toda pessoa que tem resultado positivo para o novo coronavírus é hospitalizada.
+
+O grupo teste recebeu uma combinação de lopinavir-ritonavir (400mg/100mg) e ribavirin (400mg) a cada 12 horas, além de três doses injetadas de interferon beta-1b em dias alternados; já o grupo controle recebeu apenas o lopinavir-ritonavir a cada 12 horas.
+
+Neste período, eles continuaram recebendo tratamento padrão para covid-19, como ventilação, diálise e antibióticos.
+
+Diferente de outras síndromes respiratórias, como Sars e Mers, em que antivirais podem combater o vírus antes do pico dos sintomas (entre 7 a 10 dias após o início), na covid-19, o aumento da carga viral coincide com a piora dos sintomas, logo nos primeiros dias da doença.
+
+Isso é semelhante ao que ocorre com a influenza, sobre a qual já se sabe que uma combinação medicamentosa, em vez de apenas um medicamento, por ser mais eficaz. Por isso a aposta na combinação tripla interferon beta 1-b, lopinavir-ritonavir e ribavirin.
+
+No surto de SARS em 2003, a combinação lopinavir-ritonavir (normalmente usada contra o HIV) e o ribavirin (usado contra a hepatite C) reduziu significativamente a ocorrência de insuficiência respiratória e mortes em pacientes hospitalizados. Já o interferon beta 1-b, desenvolvido para tratar da esclerose múltipla, também levou a redução da carga viral e melhora nos pulmões em testes com animais para MERS.
+
+"Estas descobertas sugerem que o interferon beta 1-b pode ser um componente essencial desta combinação de tratamentos e válido investigá-lo mais no tratamento da covid-19", diz a coautora Jenny Lo, do Hospital Ruttonjee, em Hong Kong.
+
+"Os interferons são proteínas que ocorrem naturalmente, produzidas em reação a uma infecção viral. A esperança é que o interferon beta-1b aumente a capacidade do organismo de combater o novo coronavírus"
+
+Fora da equipe responsável pela publicação no Lancet, Sarah Shalhoub, pesquisadora da Universidade Ocidental do Canadá, enviou por escrito à imprensa um comentário sobre o artigo.
+
+"A maioria dos estudos publicados até agora foram do tipo retrospectivos ou observacionais. Portanto, esse estudo controlado e randomizado, com objetivo prospectivo, agrega um valor significativo ao acúmulo de evidências sobre tratamentos, eliminando uma série de limitações inerentes aos estudos retrospectivos. "
+
+"No entanto, como os autores reconhecem, são necessários estudos futuros para examinar a eficácia do interferon beta-1b sozinho ou em combinação com outros medicamentos para tratar pacientes graves com covid-19, além de uma comparação com placebo."

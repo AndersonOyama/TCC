@@ -27,8 +27,19 @@ VERDADEIRAS:
 *Ministério da Saúde habilita mais 92 leitos para combate ao coronavírus  - https://www.saude.gov.br/noticias/agencia-saude/46744-ministerio-da-saude-habilita-mais-92-leitos-para-combate-ao-coronavirus
 *Ministério da Saúde antecipa vacinação contra Influenza para os Povos Indígenas - https://www.saude.gov.br/noticias/agencia-saude/46737-ministerio-da-saude-antecipa-vacinacao-contra-influenza-para-os-povos-indigenas
 *Ministério da Saúde supera meta e vacina 90,66% dos idosos - https://www.saude.gov.br/noticias/agencia-saude/46733-ministerio-da-saude-supera-meta-e-vacina-90-66-dos-idosos
-
-
+*Cloroquina contra coronavírus: por que OMS decidiu interromper testes com remédio em pacientes com covid-19 - https://www.bbc.com/portuguese/geral-52806209
+*Tratamento para coronavírus: 'pista' imunológica traz esperança na luta contra a covid-19 - https://www.bbc.com/portuguese/geral-52769176
+*Síndrome de Kawasaki: o que é a rara doença inflamatória que vem afetando crianças infectadas pelo novo coronavírus - https://www.bbc.com/portuguese/geral-52671627
+*Winter, a lhama que pode ajudar na busca por uma cura para a covid-19 - https://www.bbc.com/portuguese/internacional-52683282
+*Coronavírus: estudo com coquetel de remédios tem bons resultados contra a covid-19, mostra The Lancet - https://www.bbc.com/portuguese/geral-52596190
+*Coronavírus: as mutações do Sars-Cov-2 que intrigam cientistas - https://www.bbc.com/portuguese/geral-52565176
+*Coronavírus: por que alguns pacientes já recuperados voltam a ter teste positivo para covid-19, segundo OMS - https://www.bbc.com/portuguese/internacional-52525236
+*Coronavírus: covid-19 já mata mais por dia que a tuberculose, doença infecciosa mais letal do mundo - https://www.bbc.com/portuguese/geral-52135988
+*Hábitos saudáveis podem atrasar em até 10 anos o câncer e as doenças do coração, mostra estudo - https://www.bbc.com/portuguese/geral-51054831
+*Diabetes não é doença só de adulto: Brasil é 3º país com mais casos entre crianças e adolescentes - https://www.bbc.com/portuguese/geral-50721734
+*O que é melhor para a saúde, leite de vaca ou ‘alternativos’? - https://www.bbc.com/portuguese/vert-fut-50636322
+*O inovador método de imunoterapia que traz esperanças para pacientes com câncer avançado na próstata - https://www.bbc.com/portuguese/geral-50584710
+*Nova técnica de edição de DNA poderá curar até '89% das doenças genéticas' no futuro - https://www.bbc.com/portuguese/geral-50133350
 
 FALSAS:
 
@@ -73,3 +84,4 @@ FALSAS:
 *Tomar ou bebidas quentes para matar o coronavírus - https://www.saude.gov.br/fakenews/46577-tomar-ou-bebidas-quentes-para-matar-o-coronavirus-e-fake-news - https://es-la.facebook.com/intecabsp1/posts/2432699366831241?__tn__=K-R
 *Coronavírus morre a 26º C - https://www.saude.gov.br/fakenews/46576-coronavirus-morre-a-26-c-e-fake-news - https://m.facebook.com/story.php?story_fbid=3227255067304278&id=231824896847325
 *Água ou chá quente mata o coronavírus - https://www.saude.gov.br/fakenews/46515-agua-ou-cha-quente-mata-o-coronavirus-e-fake-news - https://hi-in.facebook.com/pointda22g/posts/972100339852110/
+*Café previne o coronavírus - https://www.saude.gov.br/fakenews/46705-cafe-previne-o-coronavirus-e-fake-news - https://www.boatos.org/saude/cafe-ou-cha-curam-e-previnem-coronavirus.html

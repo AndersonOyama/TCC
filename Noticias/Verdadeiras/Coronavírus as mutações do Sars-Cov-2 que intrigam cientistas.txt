@@ -1,0 +1,37 @@
+Pesquisadores nos EUA e no Reino Unido identificaram centenas de mutações no Sars-Cov-2, o vírus que causa a covid-19.
+
+Mas ainda não está claro o que isso significará para a disseminação do vírus na população e para a eficácia de uma possível vacina.
+
+Vírus normalmente sofrem mutações. A questão é: qual dessas mutações no Sars-Cov-2 realmente altera a gravidade ou infecciosidade da doença?
+
+Pesquisas preliminares nos EUA sugeriram que uma mutação específica — D614G — está se tornando dominante e pode tornar a doença mais infecciosa, mas o estudo ainda não foi revisado por outros cientistas nem publicado formalmente.
+
+Os pesquisadores, do Laboratório Nacional Los Alamos, no Novo México, vêm acompanhando as mudanças nas "pontinhas" da cápsula do vírus, que lhe conferem a forma de "coroa", usando um banco de dados chamado Iniciativa Global sobre Compartilhamento de Todos os Dados sobre Influenza (GISAID).
+
+Eles observaram que parece haver algo sobre essa mutação específica D614G que a faz crescer mais rapidamente — mas as consequências disso ainda não são claras.
+
+A equipe de pesquisa analisou dados do Reino Unido de pacientes com coronavírus em Sheffield. Embora as pessoas com essa mutação específica do vírus parecessem ter uma quantidade maior do vírus em suas amostras, os cientistas não encontraram evidências de que elas ficaram mais gravemente doentes ou ficaram no hospital por mais tempo.
+'Mutação não é uma coisa ruim'
+
+Outro estudo da University College London (UCL) identificou 198 mutações recorrentes no vírus.
+
+"Mutações em si não são uma coisa ruim e não há nada que indique que o Sars-CoV-2 esteja sofrendo mutações mais rápidas ou mais lentas do que o esperado", afirma François Balloux, um dos autores desse estudo.
+
+"Até agora, não podemos dizer se o Sars-CoV-2 está se tornando mais ou menos letal e contagioso."
+
+Um estudo da Universidade de Glasgow, que também analisou mutações, disse que essas mudanças não representam diferentes cepas do vírus. Eles concluíram que apenas um tipo de vírus está circulando atualmente.
+
+O monitoramento de pequenas alterações na estrutura do vírus é importante para o desenvolvimento de vacinas.
+
+Um exemplo disso é o vírus da gripe, que sofre uma mutação tão rápida que a vacina precisa ser ajustada todos os anos para lidar com a cepa específica em circulação.
+Desenvolvimento de remédios
+
+Muitas das vacinas contra covid-19 atualmente em desenvolvimento têm como alvo "pontinhas" diferentes da estrutura externa do vírus — a ideia é que fazer com que o organismo reconheça um elemento único do vírus o ajudará a combater o vírus todo.
+
+Mas se essa estrutura estiver mudando, uma vacina desenvolvida dessa maneira pode se tornar menos eficaz.
+
+No momento, tudo isso é teórico. Os cientistas ainda não têm informações suficientes para dizer o que as alterações no genoma do vírus significam.
+
+Lucy Van Dorp, coautora do estudo da UCL, diz que a análise de um grande número de genomas de vírus pode ser algo "inestimável para os esforços de desenvolvimento de medicamentos".
+
+No entanto, diz ela à BBC, "existe um limite para o que os genomas podem ajudar a explicar".

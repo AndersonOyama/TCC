@@ -1,0 +1,44 @@
+Cientistas do Reino Unido devem começar a testar um tratamento que, segundo esperam, possa combater os efeitos da covid-19 nos pacientes mais graves.
+
+Eles constataram que aqueles que desenvolvem a forma mais grave da doença têm números extremamente baixos de uma célula imune chamada célula T.
+
+As células T "limpam" a infecção do corpo.
+
+O ensaio clínico avaliará se um medicamento chamado interleucina 7, conhecido por aumentar o número de células T, pode ajudar na recuperação dos pacientes.
+
+O estudo envolve cientistas do Instituto Francis Crick, King's College London e do hospital Guy's e St Thomas'. Eles examinaram as células imunes no sangue de 60 pacientes de covid-19 e encontraram uma aparente queda no número de células T.
+
+Adrian Hayday, do Instituto Crick, disse que foi uma "grande surpresa" ver o que estava acontecendo com as células imunológicas.
+
+"Elas estão tentando nos proteger, mas o vírus parece estar fazendo algo que está puxando o tapete delas, porque seus números diminuíram drasticamente."
+
+Em uma gota de sangue de microlitro (0,001 ml), adultos saudáveis normais têm entre 2 mil e 4 mil células T, também chamadas linfócitos T.
+
+Os pacientes de covid-19 que a equipe testou tinham entre 200 e 1,2 mil.
+'Extremamente encorajador'
+
+Os pesquisadores dizem que essas descobertas abrem caminho para que eles desenvolvam um "teste de impressão digital" para verificar os níveis de células T no sangue, o que poderia fornecer indicações precoces de quem poderia desenvolver doenças mais graves.
+
+Mas também oferece a possibilidade de um tratamento específico para reverter esse declínio das células imunológicas.
+
+Manu Shankar-Hari, médico de cuidados intensivos do hospital Guy's e St Thomas', em Londres, disse que cerca de 70% dos pacientes que observa em terapia intensiva com covid-19 chegam com 400 a 800 linfócitos por microlitro.
+
+"Quando eles começam a se recuperar, o nível de linfócitos também começa a voltar", acrescenta.
+
+A interleucina 7 já foi testada em um pequeno grupo de pacientes com sepse e comprovou aumentar com segurança a produção dessas células específicas.
+
+Nesse estudo, ela será administrada a pacientes com baixa contagem de linfócitos em tratamento intensivo por mais de três dias.
+
+Shankar-Hari disse: "Esperamos que [quando aumentarmos a contagem de células] as infecções virais sejam eliminadas.
+
+"Como médico intensivista, eu cuido dos pacientes que estão extremamente mal e, além dos cuidados de suporte, não temos nenhum tratamento ativo direto contra a doença".
+
+"Portanto, um tratamento como esse no contexto de um ensaio clínico é extremamente encorajador para médicos de cuidados intensivos em todo o Reino Unido".
+
+A pesquisa também forneceu informações sobre as formas específicas pelas quais a covid-19 interage com o sistema imunológico, o que, segundo Hayday, será vital à medida que cientistas de todo o mundo procuram informações clinicamente valiosas.
+
+"O vírus que causou essa emergência no planeta é único — e diferente. É algo sem precedentes."
+
+"A razão exata para essa interrupção — a chave nos trabalhos do sistema de células T — não está clara para nós.
+
+"Este vírus está realmente fazendo algo distinto e pesquisas futuras - que começaremos imediatamente — precisam descobrir o mecanismo pelo qual ele está causando esses efeitos."
