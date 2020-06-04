@@ -1,0 +1,23 @@
+O CT Vacinas, núcleo formado por pesquisadores da UFMG (Universidade Federal de Minas Gerais) e da Fiocruz (Fundação Oswaldo Cruz), desenvolveu um teste para diagnosticar a covid-19, que diminui as chances de o resultado ser de falso negativo ou falso positivo.
+
+Trata-se de um teste Elisa, nome que deriva da abreviação de "ensaio de imunoabsorção enzimática" (em inglês, enzyme-linked immunosorbent assay), em referência à técnica usada. Pelo mundo, o método consolidou-se, há anos, como ferramenta de detecção do HIV.
+
+Além de rápido, o teste concebido pelo CT Vacinas tem a vantagem de ser mais barato que outra opção existente, o RT-PCR (do inglês reverse-transcriptase polymerase chain reaction), cujo custo varia de R$ 280 a R$ 470 na capital paulista, conforme apurou a Agência Brasil, após contatar três redes de laboratórios.
+
+Como os testes rápidos, o Elisa também é sorológico (feito a partir da procura por anticorpos no sangue), com a diferença de que pode ser realizado somente em laboratórios, ainda que o equipamento necessário seja relativamente simples. Após as validações iniciais, a próxima etapa é obter a certificação da Anvisa (Agência Nacional de Vigilância Sanitária).
+
+"No caso do Elisa, de metodologia completamente diferente [em relação aos testes rápidos], tira-se uma amostra de sangue maior, precisa-se de 1 mililitro, pelo menos. Então, é necessária uma agulha para  coletar o sangue. O processo de detecção da presença do anticorpo é muito mais sensível", diz a coordenadora do CT Vacinas, Santuza Ribeiro.
+
+"Por isso, mesmo que a pessoa tenha baixas quantidades de anticorpo, não se detecta naquele teste rápido, mas pode-se detectar no Elisa. Não se consegue fazer o Elisa em um balcão de farmácia, por exemplo. Por outro lado, há uma sensibilidade muito maior. Outra vantagem é que, com o Elisa, consegue-se uma redução não só de falso negativo, mas de falso positivo, que é quando se tem uma reação que parece positiva, e, na verdade, é um anticorpo contra outro vírus, que não o Sars-CoV-2, como o de gripe comum", explica Suzana.
+
+Com o Elisa desenvolvido pelos pequisadores do CT Vacinas, consegue-se mostrar que, em pessoas que têm anticorpos contra outras viroses, como dengue, não se detecta positivo. "O teste rápido não é capaz de diferenciar as outras infecções", acrescenta.
+
+Na prática, o que se faz é fixar o antígeno em uma placa de poliestireno e ligá-lo a um anticorpo com marcador enzimático. Caso haja reação de defesa do organismo contra o agente patogênico – no caso, o novo coronavírus –, na forma de anticorpos, o material depositado sobre a placa muda de cor.
+
+Em virtude da estrutura exigida para aplicação do teste, a equipe agora busca o apoio de órgãos federais, como o Ministério da Ciência, Tecnologia, Inovações e Comunicações e outros entes públicos e também de empresas, para possibilitar a produção em larga escala e a disponibilização a uma parcela significativa da população. Duas pontes que estão sendo negociadas envolvem a Fundação Ezequiel Dias (Funed), do governo de Minas Gerais, e o Instituto de Tecnologia em Imunobiológicos (Bio-Manguinhos), da Fiocruz.
+
+Santuza destaca, ainda, que o teste Elisa para covid-19 surgiu do aprimoramento de um saber que já circulava no núcleo, sinalizando para a importância do investimento estável em ciência. "No CT Vacinas, a gente já havia desenvolvido um teste muito semelhante, para outras doenças, inclusive não virais, para leishmaniose, doença de Chagas e malária. A mudança que foi feita consistiu em colocar como componente do teste uma molécula capaz de detectar o anticorpo contra o covid-19."
+
+"Testamos três opções e encontramos o antígeno N, componente da partícula viral, como a melhor molécula para detectar o anticorpo contra covid-19. Isso foi uma demanda específica que tivemos da Secretaria de Estado de Saúde de Minas Gerais, por meio da Fundação de Amparo à Pesquisa do Estado de Minas Gerais (Fapemig), com financiamento da fundação, inicialmente, e depois recebemos recursos do governo federal, por meio da Rede Virus, do Ministério da Ciência, Tecnologia, Inovações e Comunicações". De acordo com a coordenadora do CT Vacinas, trata-se de uma molécula distinta da que está sendo usada no desenvolvimento de vacinas.
+
+A proposta foi apresentada pela Fapemig no início de março, diz Santuza, ao destacar o sucesso da equipe, que completoo o desafio em três meses: "A gente ficou muito feliz, porque não sabia se teria capacidade de realizar em um tempo tão curto."

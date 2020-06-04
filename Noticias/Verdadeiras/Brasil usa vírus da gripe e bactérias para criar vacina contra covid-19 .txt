@@ -1,0 +1,43 @@
+Pesquisadores brasileiros de diferentes instituições estão empenhados em produzir uma vacina nacional contra o novo coronavírus, o que garantiria agilidade no combate à pandemia e independência de outros países. Para isso, são testados desde o vírus causador da gripe até o mecanismo usado por bactérias para enganar o sistema imune.
+
+Essa, inclusive, é a estratégia em que o Instituto Butantan concentra seus esforços. Quando estão em ação no organismo, as bactérias liberam vesículas feitas de suas membranas externas. Essa ação confunde o sistema imunológico do corpo humano.
+
+"A gente quer acoplar a proteína do coronavírus na superfície dessas vesículas, assim, estamos fingindo ser o vírus", esclarece Luciana Cerqueira Leite, pesquisadora do Laboratório de Desenvolvimento de Vacinas do Instituto Butantan.
+
+De acordo com Luciana, essa pequena partícula, produzida em laboratório a partir da cultura de dois tipos de bactéria - uma para fabricar a vesícula e outra a proteína igual ao do coronavírus -, possibilita aumentar 100 vezes a produção de anticorpos e também é capaz de estimular a ação de células de defesa.
+
+"Nós já fizemos todo esse processo para a produção da vacina contra a esquistossomose [que já está em testes clínicos], então metade [da produção] já está concluída", afirma.
+
+Após a fabricação, a vacina será testadas em camundongos, a fim de verificar sua segurança e eficácia. A expectativa é que essa fase tenha início em um intervalo de seis meses a um ano.
+A tática de pesquisadores da USP
+
+Essa etapa já foi alcançada pela equipe coordenada pelo professor Jorge Kalil, do InCor (Instituto do Coração do Hospital das Clínicas da Faculdade de Medicina da USP). Eles também apostam em uma imitação do novo coronavírus.
+
+Mas, nesse caso, a simulação é feita com o uso de VLPs (virus-like particles, em inglês), moléculas que se assemelham ao vírus, mas não possuem material genético para a replicação viral.
+
+A vacina ainda será aplicada em camundongos transgênicos. Eles serão modificados com o receptor ACE-2, a enzima que o coronavírus usa para entrar na célula. Kalil deu mais detalhes sobre cada etapa em entrevista ao R7.
+
+Em conversa com a Rádio USP, o professor destacou que existe um caminho "razoável" a ser percorrido para ir dos testes em camundongos aos testes em humanos.
+
+"Tem vários testes em animais que serão feitos, para provar que a ideia funciona, ou seja, que os animais desenvolem anticorpos neutralizantes. Para depois, ver a toxicidade e segurança", descreve.
+Eficácia em humanos
+
+Após verificar esses aspectos em animais, é preciso fazer o escalonamento, que significa produzir grande quantidade da vacina em boas práticas de laboratório para que ela seja testada nas pessoas. De acordo com Kalil, esse processo pode durar, no mínimo, um ano e meio.
+
+O plano é realizar duas fases de testes em humanos: uma para verificar se a vacina é tóxica e outra para saber qual o regime de vacinação mais apropriado para desencadear respostas do sistema imunológico, ou seja, para o corpo começar a combater sozinho o novo coronavírus.
+
+Caso essa etapa seja bem-sucedida, a vacina começará a ser produzida em larga escala e distribuída para o mercado. "Talvez leve dois anos, dois anos e meio", estima Kalil.
+Vacina para gripe e coronavírus
+
+A equipe coordenada por Kalil troca informações com a da Fiocruz (Fundação Oswaldo Cruz) de Minas Gerais, que trabalha na produção de uma vacina bivalente: capaz de combater o novo coronavírus e o influenza, que causa a gripe.
+
+“Nós modificamos geneticamente o vírus da gripe, que é o vírus influenza, para que ele produza tanto as proteínas do vírus da gripe quanto uma proteína que nós chamamos de imunogênica, uma proteína que induz resposta imune, no caso ao Sars-CoV-2. Esperamos que uma pessoa vacinada com esse vírus tenha uma proteção contra a covid-19 e também à influenza”, explica o pesquisador Alexandre Vieira Machado
+
+Os testes em camundongos devem ser finalizados só no meio do ano que vem. Os próximos passos percorrem as mesmas etapas já descritas por Kalil, mas devem ter como cobaia os hamsters.
+Corrida mundial
+
+A pesquisadora Luciana ressalta que os países que estão mais avançados na busca por uma vacina já tinham uma experiência prévia adquirida em razão de outras epidemias, como a Sars (Síndrome Respiratória Aguda Severa) e a Mers (Síndrome Respiratória do Oriente Médio), também causadas por outros coronavírus.
+
+"Seria interessante que assim que uma vacina for aprovada, essa tecnologia fosse distribuída [a outros países] para ampliar a capacidade de produção", afirma a pesquisadora. "Aqui temos capacidade de produção, mas isso envolve muitas negociações internacionais, o que dificulta o processo", pondera.
+
+Kalil, por sua vez, defende que a melhor saída é produzir uma vacina brasileira. "Essa vacina, se nós não tivermos a nossa, se for feita na Inglaterra, primeiro eles vão vacinar os ingleses, depois americanos, depois europeus, depois chineses... Para nós termos acesso a essa vacina, vai demorar", analisa.

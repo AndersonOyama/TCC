@@ -1,0 +1,11 @@
+Os idosos e aqueles com condições de saúde subjacentes, incluindo demência, já estão em maior risco de doenças graves e morte por vírus. Agora, pesquisa mostra que uma mutação genética ligada à demência pode aumentar o risco de uma pessoa ter doenças graves por causa do COVID-19.
+
+Pesquisadores da Faculdade de Medicina da Universidade de Connecticut, nos Estados Unidos, analisaram dados do Biobank do Reino Unido, um banco de dados de informações de saúde de 500.000 voluntários com idade entre 48 e 86 anos. Os pesquisadores se concentraram em pessoas de ascendência europeia que possuem o gene ApoE, cuja variante, chamada "e4", é conhecida por aumentar o risco de demência.
+
+Os pesquisadores descobriram que 9.022 de quase 383.000 pessoas com ascendência europeia tinham duas cópias da variante e4, enquanto outros 223.000 tinham duas cópias de uma variante chamada e3. Aqueles com e4 têm um risco 14 vezes maior de demência do que aqueles com e3.
+
+A equipe então analisou os testes positivos para o Covid-19 entre 16 de março e 26 de abril, quando os testes para o coronavírus foram realizados em grande parte em hospitais, sugerindo que os casos eram graves. Entre aqueles que testaram positivo para COVID-19 entre essas datas, 37 tiveram duas cópias da variante e4 de ApoE, enquanto 401 tiveram duas cópias da variante e3.
+
+Os pesquisadores também levaram em consideração vários fatores, incluindo idade e sexo, eles descobriram que aqueles com duas variantes e4 tinham mais que o dobro do risco de COVID-19 grave do que aqueles com duas variantes e3.
+
+Os resultados são os mais recentes a relatar uma possível associação entre genética e risco de mau prognóstico com a doença causada pelo novo coronavírus, SARS-CoV-2. Residentes de instalações de vida assistida e lar de idosos foram responsáveis ??por aproximadamente metade das quase 100.000 mortes de COVID-19 nos Estados Unidos, de acordo com uma análise realizada pela Kaiser Family Foundation. Aproximadamente metade dos residentes dessas instituições sofre com demência, com base em estimativas da Alzheimer's Association.

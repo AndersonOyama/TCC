@@ -1,0 +1,25 @@
+Mais simples e barata que as disponíveis atualmente, técnica criada por cientistas da USP possibilitou também a análise da agressividade do tumor
+
+Um estudo produzido pelo Laboratório de Investigação Médica da Disciplina de Urologia (LIM 55) da Faculdade de Medicina (FM) da USP, em parceria com o Instituto de Ciências Biomédicas (ICB) da USP, conseguiu identificar pacientes com câncer de próstata a partir do exame de amostras de urina. Além de permitir o diagnóstico de modo não invasivo, a técnica também possibilitou a análise da agressividade do tumor, fundamental para determinar o melhor tratamento.
+
+Agora, o próximo passo é a validação das descobertas. Os pesquisadores buscam financiamento para um novo projeto de pesquisa que terá como objetivo comprovar se os resultados encontrados se repetem em uma população diferente da estudada até então.
+
+Caso validadas, as descobertas poderão contribuir como uma opção mais prática e barata de exame. Apesar de já existirem testes semelhantes disponíveis comercialmente, estes são mais complexos e protegidos por patente, o que resulta em alto custo e baixa disponibilidade. “Por isso, é bastante desejável que consigamos disponibilizar esse exame, validar e talvez disponibilizar na prática”, afirma a professora Kátia Leite, professora da FMUSP e chefe do LIM 55.
+
+Atualmente, os dois principais modos de analisar a suspeita do câncer são o toque retal, que busca identificar uma zona de endurecimento na próstata relacionada à presença da doença, e o exame dos níveis de Antígeno Prostático Específico (PSA) no sangue. Apesar de menos invasivo, este último não elimina a necessidade da biópsia, explica a professora.
+
+“O PSA é um marcador interessante, pois é específico da próstata. Mas não é específico do câncer de próstata, pois também pode aumentar na hiperplasia prostática benigna e na prostatite, por exemplo”, diz a professora, que também é coautora do estudo. “O que  precisamos é de melhores indicadores para fazer uma biópsia de maneira segura e em um número menor de pacientes.”
+
+Marcadores genéticos
+
+O estudo começou em 2014, com um projeto do LIM 55 que tinha como objetivo a identificação de marcadores genéticos para prognóstico e diagnóstico do câncer de próstata. A pesquisa foi feita com homens que já tinham suspeita de câncer e, por isso, tinham indicação de biópsia para diagnóstico definitivo. Destes pacientes foi coletado um fragmento da biópsia, para estudo molecular, e também uma amostra de urina, da qual foi possível sequenciar uma série de gene.
+
+Foi então que o professor Giuseppe Palmisano, do ICB, se juntou à pesquisa. Ele propôs que a partir da urina coletada fosse caracterizado um perfil de proteína, por meio da espectrometria de massa (técnica que mede a massa e a estrutura química das moléculas). Como apontou o estudo, a urina pode conter elementos que reflitam os processos bioquímicos relacionados ao desenvolvimento de um tumor.
+
+O estudo foi realizado com 12 pacientes, sendo seis com a doença e os outros com hiperplasia benigna. Os resultados indicaram que um painel de 56 glicoproteínas (tipo de proteína ligado a um carboidrato) nas amostras de urina alcançou uma precisão de 100% no diagnóstico do câncer de próstata.
+
+Maior precisão
+
+A pesquisa também mostrou que o exame via urina é capaz de indicar a existência e agressividade do tumor com maior precisão do que o PSA sozinho. Como explica a professora Kátia, o câncer de próstata é um dos tipos mais comuns entre os homens, mas em parte dos casos não apresenta ameaça grave à saúde. Alguns deles são caracterizados como “câncer indolente”: pouco agressivos e sem necessidade de intervenção imediata.
+
+“Hoje existe uma conduta chamada de active surveillance [vigilância ativa], na qual o paciente não é tratado, e sim observado. Se o tumor muda de característica e fica com um padrão maior de agressividade, aí sim é feito o tratamento curativo”, diz. “No painel, conseguimos identificar um perfil de expressão de gene que caracterizava um tumor mais ou menos agressivo, ajudando nessa decisão de tratar ou observar.”

@@ -1,0 +1,23 @@
+Células infectadas serão utilizadas por cientistas da USP para testar medicamentos contra a covid-19 e outras doenças
+
+Os cientistas da Plataforma de Triagem Fenotípica, do Instituto de Ciências Biomédicas (ICB) da USP, em colaboração com pesquisadores do Instituto de Biociências (IB) da USP, verificaram que o novo coronavírus (SARS-CoV-2) é capaz de infectar cardiomiócitos (células que compõem o músculo do coração). Desde o final de março, o grupo já estava testando fármacos em células Vero infectadas com o vírus. Essas células são originárias de rins de macaco e são muito comuns nesse tipo de estudo. Agora, os pesquisadores estão adaptando a plataforma para fazer os testes nas células do coração.
+
+Segundo Lúcio Freitas Junior, coordenador do laboratório, um dos grandes desafios da triagem fenotípica para descobrimento de fármacos é conseguir testar os medicamentos em células humanas normais. A dificuldade de se obter modelos celulares humanos para estudos in vitro limita as pesquisas que buscam analisar a interação do vírus com as células. Como o comportamento do vírus pode variar em diferentes tipos celulares e organismos, o ideal é utilizar células humanas que sejam relevantes para o estudo de patógenos que causam doenças em humanos, como o SARS-CoV-2.
+
+“O processo de obtenção e diferenciação das células humanas primárias é mais trabalhoso e custoso do que a utilização de linhagens imortalizadas – normalmente derivadas de tumores, no caso de células humanas. O SARS-CoV-2 parece infectar pouco as células de linhagens imortalizadas humanas em comparação com as células Vero de macaco”, explica o pesquisador.
+
+Os cardiomiócitos utilizados nos testes foram obtidos com pesquisadores do LaNCE – Laboratório Nacional de Células-Tronco Embrionárias do Instituto de Biociências (IB) da USP, sob coordenação da professora Lygia da Veiga Pereira, que produzem modelos celulares mais próximos às condições fisiológicas do ser humano. “Eles utilizam linhagens de células-tronco pluripotentes humanas derivadas de doadores adultos. Essas células são tratadas com diferentes fatores para se especializarem em diferentes tipos celulares, como os cardiomiócitos.” Juntos, os grupos pretendem usar esses modelos para identificar fármacos para diversas doenças, começando pela covid-19.
+
+Vantagens
+
+O uso de células humanas primárias para testar a eficácia de medicamentos contra o coronavírus pode otimizar a pesquisa e diminuir a espera para ensaios em humanos. Além disso, é possível estudar a interação do patógeno com diferentes tipos celulares e avaliar se a atividade de fármacos candidatos é a mesma em diferentes células. O laboratório está padronizando os ensaios e os experimentos iniciais ocorrerão nas próximas semanas. “Já estamos identificando alguns fármacos ativos que ainda não foram reportados. Esperamos reportar os dados em breve para a comunidade acadêmica”, afirma o pesquisador Lucio Freitas.
+
+Uma vez identificados os medicamentos com potencial para combater o coronavírus, os resultados serão avaliados com especialistas clínicos para estudos preliminares em humanos. No entanto, ainda não é possível estimar quanto tempo levará até essa próxima etapa.
+
+Outras aplicações
+
+Os cardiomiócitos também estão sendo usados para estudar o Trypanosoma cruzi, agente causador da doença de Chagas, com o desenvolvimento de ensaios in vitro translacionais para a descoberta de novos fármacos. O estudo é feito em parceria com o DNDi (Iniciativa Medicamentos para Doenças Negligenciadas, em português). Segundo Jadel Müller Kratz, gerente de P&D da DNDi América Latina, ainda existe uma lacuna importante na ciência translacional da doença de Chagas.
+
+“O desenvolvimento de ensaios in vitro e in vivo inovadores é crucial. Os programas de descoberta de medicamentos para a doença de Chagas se beneficiariam muito de ensaios com células humanas que tivessem um poder preditivo maior e aumentassem as chances de sucesso na transição da pesquisa pré-clínica para pesquisa clínica [em humanos]. Nesse momento, não é possível garantir que o uso de cardiomiócitos humanos vai trazer este impacto positivo, mas avaliar esta possibilidade é o nosso objetivo nessa parceria.”
+
+A Plataforma de Triagem Fenotípica do ICB também tem trabalhado com o grupo do professor Marcos Buckeridge, do IB, para avaliar os efeitos de partículas de poluição encontradas na atmosfera de São Paulo nas infecções celulares por coronavírus. Com a chegada do inverno, a qualidade do ar de São Paulo e de diversas outras grandes cidades brasileiras tende a piorar, com o aumento da concentração de poluentes. O grupo busca entender qual é o impacto desses poluentes na infecção pelo SARS-CoV-2.
