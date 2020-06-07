@@ -12,13 +12,14 @@ def multi_replace(reg, text):
     return regex.sub(lambda match: reg[match.group(0)], text)
 
 def countSpellError(file):
-    spell = SpellChecker(language=None, local_dictionary="./dictionary/dictionary_compiled.txt")
+    spell = SpellChecker(language=None, local_dictionary="./dictionary/fused_compiles.txt")
+    
 
 # CRIAR DICIONARIO E "COMPILAR" ELE PARA USO DO SPELLCHECKER 
 
     # spell = SpellChecker(language=None)
-    # spell.word_frequency.load_text_file("./dictionary/ime.txt")
-    # spell.export("./dictionary/dictionary_compiled_ime.txt")
+    # spell.word_frequency.load_text_file("./dictionary/fused.txt")
+    # spell.export("./dictionary/fused_compiles.txt")
 
     lines = []
 
@@ -31,6 +32,7 @@ def countSpellError(file):
         "%" : "",
         "\"" : "",
         "\'" : "",
+        "\“" : "",
         "\“" : "",
         "/" : " ",
         "”" : "",
@@ -50,3 +52,17 @@ def countSpellError(file):
     count = (len(misspelled)/len(lines))
 
     return misspelled, count
+
+
+
+def main():
+
+    spell = SpellChecker(language=None)
+    spell.word_frequency.load_text_file("./dictionary/ime.txt")
+    spell.export("./dictionary/dictionary_compiled_ime.txt")
+
+    exit(0)
+
+    if __name__ == '__main__':
+        main()
+        
