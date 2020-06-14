@@ -3,7 +3,9 @@ import re
 # /home/anderson/Documentos/Github/TCC/Noticias/Falsas
 
 from nltk.tokenize import word_tokenize
+from nltk.tokenize.treebank import TreebankWordDetokenizer
 from spellchecker import SpellChecker
+from googletrans import Translator
 
 
 
@@ -12,6 +14,7 @@ def multi_replace(reg, text):
     return regex.sub(lambda match: reg[match.group(0)], text)
 
 def countSpellError(file):
+    translator = Translator()
     spell = SpellChecker(language=None, local_dictionary="./dictionary/fused_compiles.txt")
     
 
@@ -26,6 +29,7 @@ def countSpellError(file):
     reg = {
         "." : "",
         "," : "",
+        "’" : "",
         "-" : " ",
         "?" : "",
         "!" : "",
@@ -36,12 +40,25 @@ def countSpellError(file):
         "\“" : "",
         "/" : " ",
         "”" : "",
-        "*" : ""
+        "*" : "",
+        "–" : ""
     }
+
 
     with open(file, 'r') as f:
         lines = word_tokenize( multi_replace(reg, re.sub(r'(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}     /)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:\'".,<>?«»“”‘’]))', '', f.read().lower(), flags=re.MULTILINE)))
+
     misspelled = spell.unknown(lines)
+    # try:
+    translated = translator.translate(TreebankWordDetokenizer().detokenize(misspelled), dest = 'en', src = 'pt')
+    #     print(translated.text, "\n", misspelled, "\n")
+    #     error_translated = translator.translate
+    #     print(TreebankWordDetokenizer().detokenize(error_translated))
+    #     # new_errors = spell.unknown
+    # except Exception as e:
+    #     print(str(e))
+        
+
 
     # for word in misspelled:
         # spell.correction(word)

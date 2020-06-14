@@ -1,7 +1,11 @@
-from nltk.tokenize import word_tokenize
-
 import sklearn
-stopwords = nltk.corpus.stopwords.words(‘portuguese’)
+import nltk
+
+from nltk.corpus import stopwords
+from string import punctuation
+
+
+stopwords = set(stopwords.words('portuguese') + list(punctuation))
 
 
 def shareRequest(file):
@@ -10,4 +14,4 @@ def shareRequest(file):
 
 
 if __name__ == "__main__":
-    main()
+    shareRequest(None)
