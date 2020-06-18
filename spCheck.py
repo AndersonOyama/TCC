@@ -50,7 +50,7 @@ def countSpellError(file):
 
     misspelled = spell.unknown(lines)
     # try:
-    translated = translator.translate(TreebankWordDetokenizer().detokenize(misspelled), dest = 'en', src = 'pt')
+    # translated = translator.translate(TreebankWordDetokenizer().detokenize(misspelled), dest = 'en', src = 'pt')
     #     print(translated.text, "\n", misspelled, "\n")
     #     error_translated = translator.translate
     #     print(TreebankWordDetokenizer().detokenize(error_translated))
