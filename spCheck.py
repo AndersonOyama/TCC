@@ -14,11 +14,11 @@ def multi_replace(reg, text):
     return regex.sub(lambda match: reg[match.group(0)], text)
 
 def countSpellError(file):
-    translator = Translator()
+
     spell = SpellChecker(language=None, local_dictionary="./dictionary/fused_compiles.txt")
     
 
-# CRIAR DICIONARIO E "COMPILAR" ELE PARA USO DO SPELLCHECKER 
+# CRIAR DICIONARIO E "COMPILA" ELE PARA USO DO SPELLCHECKER 
 
     # spell = SpellChecker(language=None)
     # spell.word_frequency.load_text_file("./dictionary/fused.txt")
