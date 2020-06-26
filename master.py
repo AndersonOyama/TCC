@@ -8,7 +8,7 @@ import string
 from array import array
 from os import listdir
 from spCheck import countSpellError
-from ShareCheck import shareRequest
+from ShareCheck import shareRequestTrain
 
 def list_files(dir):
     return (f for f in os.listdir(dir) if f.endswith('.'+"txt"))
@@ -71,7 +71,7 @@ def main(dir):
     #     row += 1
        
     #VERIFICADOR DE SOLICITAÇÃO DE COMPARTILHAMENTO
-    compartilhamento = shareRequest(files, dir)
+    compartilhamento = shareRequestTrain(files, dir)
 
 
 
