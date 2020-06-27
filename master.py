@@ -8,7 +8,7 @@ import string
 from array import array
 from os import listdir
 from spCheck import countSpellError
-from ShareCheck import shareRequestTrain
+from share import shareCheck
 
 def list_files(dir):
     return (f for f in os.listdir(dir) if f.endswith('.'+"txt"))
@@ -63,16 +63,20 @@ def main(dir):
     column += 1
     
 
-    #VERIFICADOR DE ERROS GRAMÁTICAIS
-    # for f in files:
-    #     corretor = countSpellError(dir+'/'+f)
-    #     worksheet.write(row, column, ', '.join(corretor[0]))
-    #     worksheet.write(row, column+1, corretor[1])
-    #     row += 1
+    # VERIFICADOR DE ERROS GRAMÁTICAIS
+    for f in files:
+        corretor = countSpellError(dir+'/'+f)
+        worksheet.write(row, column, ', '.join(corretor[0]))
+        worksheet.write(row, column+1, corretor[1])
+        row += 1
        
     #VERIFICADOR DE SOLICITAÇÃO DE COMPARTILHAMENTO
-    compartilhamento = shareRequestTrain(files, dir)
+    column += 4
 
+    compartilhamento = shareCheck(files, dir)
+
+    for i in range(0, len(compartilhamento), 1):
+        worksheet.write(i+1, column, compartilhamento[i])
 
 
     results.close()
