@@ -9,6 +9,7 @@ from array import array
 from os import listdir
 from spCheck import countSpellError
 from share import shareCheck
+from sensacionalistaChecker import sansaChecker
 
 def list_files(dir):
     return (f for f in os.listdir(dir) if f.endswith('.'+"txt"))
@@ -53,6 +54,9 @@ def main(dir):
     worksheet.write(0, 5, 'Solicita compartilhamento?')
     worksheet.set_column(5, 5, 60)
 
+    worksheet.write(0, 6, 'Notícia sensacionalista?')
+    worksheet.set_column(6, 6, 60)
+
     
 
     for i in files:
@@ -73,10 +77,21 @@ def main(dir):
     #VERIFICADOR DE SOLICITAÇÃO DE COMPARTILHAMENTO
     column += 4
 
-    compartilhamento = shareCheck(files, dir)
+    compartilhamento, accuracy = shareCheck(files, dir)
 
     for i in range(0, len(compartilhamento), 1):
         worksheet.write(i+1, column, compartilhamento[i])
+    worksheet.write(len(compartilhamento), column, "Acurácia: " + str((accuracy*100)) + "%")
+
+    #VERIFICADOR DE SENSACIONALISMO
+
+    column += 1
+
+    sensacionalista, accuracy = sansaChecker(files, dir)
+
+    for i in range(0, len(sensacionalista), 1):
+        worksheet.write(i+1, column, sensacionalista[i])
+    worksheet.write(len(sensacionalista), column, "Acurácia: " + str((accuracy*100)) + "%")
 
 
     results.close()
