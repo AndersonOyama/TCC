@@ -66,9 +66,10 @@ def countSpellError(file):
         # print(word, spell.correction(word))
         # nmberOfError += 1
     
-    count = (len(misspelled)/len(lines))
+    count_errors = (len(misspelled)/len(lines))
+    paragraph = (len(lines.paras()))
 
-    return misspelled, count
+    return misspelled, count_errors, paragraph
 
 
 

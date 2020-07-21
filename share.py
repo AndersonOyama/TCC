@@ -48,7 +48,7 @@ def shareCheck(files, dir):
             list_share.append(blob.classify())
     
     # print(list_share)
-    return list_share
+    return list_share, accuracy
 
 
     # print('Esta frase é de caráter:{}'.format(blob.classify()))
