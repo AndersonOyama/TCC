@@ -46,16 +46,16 @@ def main(dir):
     worksheet.set_column(2, 2, 30, percent_fmt)
 
     worksheet.write(0, 3, 'Quantidade de palavras')
-    worksheet.set_column(3, 3, 100)
+    worksheet.set_column(3, 3, 25)
 
-    worksheet.write(0, 4, 'Quantidade de paragrafos')
-    worksheet.set_column(4, 4, 80)
+    worksheet.write(0, 4, 'Quantidade de parágrafos')
+    worksheet.set_column(4, 4, 25)
 
     worksheet.write(0, 5, 'Solicita compartilhamento?')
-    worksheet.set_column(5, 5, 60)
+    worksheet.set_column(5, 5, 25)
 
     worksheet.write(0, 6, 'Notícia sensacionalista?')
-    worksheet.set_column(6, 6, 60)
+    worksheet.set_column(6, 6, 20)
 
     
 
@@ -81,7 +81,7 @@ def main(dir):
 
     for i in range(0, len(compartilhamento), 1):
         worksheet.write(i+1, column, compartilhamento[i])
-    worksheet.write(len(compartilhamento), column, "Acurácia: " + str((accuracy*100)) + "%")
+    worksheet.write(len(compartilhamento) + 1, column, "Acurácia: " + str((accuracy*100)) + "%")
 
     #VERIFICADOR DE SENSACIONALISMO
 
@@ -91,7 +91,7 @@ def main(dir):
 
     for i in range(0, len(sensacionalista), 1):
         worksheet.write(i+1, column, sensacionalista[i])
-    worksheet.write(len(sensacionalista), column, "Acurácia: " + str((accuracy*100)) + "%")
+    worksheet.write(len(sensacionalista) + 1 , column, "Acurácia: " + str((accuracy*100)) + "%")
 
 
     results.close()

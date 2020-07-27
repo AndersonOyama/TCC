@@ -15,7 +15,7 @@ def sansaChecker(files, dir):
     list_sensa = []
 
     train_file = "./dataset/sensa/train_set.ods"
-    test_file = "./dataset/sensa/train_set.ods"
+    test_file = "./dataset/sensa/test_set.ods"
 
     sheet_id = 1
     df = read_ods(train_file, sheet_id)
