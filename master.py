@@ -54,8 +54,14 @@ def main(dir):
     worksheet.write(0, 5, 'Solicita compartilhamento?')
     worksheet.set_column(5, 5, 25)
 
-    worksheet.write(0, 6, 'Notícia sensacionalista?')
-    worksheet.set_column(6, 6, 20)
+    worksheet.write(0, 6, 'Compartilhamento valorado')
+    worksheet.set_column(6, 6, 30)
+
+    worksheet.write(0, 7, 'Notícia sensacionalista?')
+    worksheet.set_column(7, 7, 20)
+
+    worksheet.write(0, 8, 'Sensacionalismo valorado')
+    worksheet.set_column(8, 8, 30)
 
     
 
@@ -78,19 +84,35 @@ def main(dir):
     column += 4
 
     compartilhamento, accuracy = shareCheck(files, dir)
+    compartilhamento_value = []
+
+    for i in range(0, len(compartilhamento), 1):
+        if( compartilhamento[i] == 'compartilhamento'):
+            compartilhamento_value.append(accuracy*(-1))
+        else:
+            compartilhamento_value.append(accuracy*1)
 
     for i in range(0, len(compartilhamento), 1):
         worksheet.write(i+1, column, compartilhamento[i])
+        worksheet.write(i+1, column+1, compartilhamento_value[i])
     worksheet.write(len(compartilhamento) + 1, column, "Acurácia: " + str((accuracy*100)) + "%")
 
     #VERIFICADOR DE SENSACIONALISMO
 
-    column += 1
+    column += 2
 
     sensacionalista, accuracy = sansaChecker(files, dir)
+    sensacionalista_value = []
+
+    for i in range(0, len(sensacionalista), 1):
+        if( sensacionalista[i] == 'não sensacionalista'):
+            sensacionalista_value.append(accuracy*1)
+        else:
+            sensacionalista_value.append(accuracy*(-1))
 
     for i in range(0, len(sensacionalista), 1):
         worksheet.write(i+1, column, sensacionalista[i])
+        worksheet.write(i+1, column+1, sensacionalista_value[i])
     worksheet.write(len(sensacionalista) + 1 , column, "Acurácia: " + str((accuracy*100)) + "%")
 
 
