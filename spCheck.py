@@ -5,7 +5,7 @@ import re
 from nltk.tokenize import word_tokenize
 from nltk.tokenize.treebank import TreebankWordDetokenizer
 from spellchecker import SpellChecker
-from googletrans import Translator
+
 
 
 
