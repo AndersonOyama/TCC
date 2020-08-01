@@ -63,7 +63,11 @@ def main(dir):
     worksheet.write(0, 8, 'Sensacionalismo valorado')
     worksheet.set_column(8, 8, 30)
 
-    
+    worksheet.write(0, 9, 'Resultado final')
+    worksheet.set_column(9, 9, 30)
+
+    worksheet.write(0, 10, 'Deffuzy')
+    worksheet.set_column(10, 10, 20)    
 
     for i in files:
         worksheet.write(row, column, i)
