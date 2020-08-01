@@ -7,11 +7,11 @@
 	<classpathentry kind="lib" path="D:/Users/ander/Documents/NetBeansProjects/fuzzyLogic/lib/jFuzzyLogic.jar"/>
 	<classpathentry kind="lib" path="D:/Users/ander/Documents/NetBeansProjects/fuzzyLogic/lib/SODS-1.2.2.jar"/>
 	<classpathentry kind="lib" path="D:/Users/ander/Documents/NetBeansProjects/fuzzyLogic/lib/xmlbeans-3.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ander/eclipse-workspace/fuzzyLogic/lib/poi-4.1.2/poi-4.1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ander/eclipse-workspace/fuzzyLogic/lib/poi-4.1.2/poi-examples-4.1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ander/eclipse-workspace/fuzzyLogic/lib/poi-4.1.2/poi-excelant-4.1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ander/eclipse-workspace/fuzzyLogic/lib/poi-4.1.2/poi-ooxml-4.1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ander/eclipse-workspace/fuzzyLogic/lib/poi-4.1.2/poi-ooxml-schemas-4.1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/ander/eclipse-workspace/fuzzyLogic/lib/poi-4.1.2/poi-scratchpad-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-4.1.2/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-4.1.2/poi-examples-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-4.1.2/poi-excelant-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-4.1.2/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-4.1.2/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/poi-4.1.2/poi-scratchpad-4.1.2.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>

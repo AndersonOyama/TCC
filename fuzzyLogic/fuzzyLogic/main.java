@@ -19,9 +19,10 @@ import net.sourceforge.*;
 import net.sourceforge.jFuzzyLogic.FIS;
 import net.sourceforge.jFuzzyLogic.FunctionBlock;
 import net.sourceforge.jFuzzyLogic.Gpr;
-//import net.sourceforge.jFuzzyLogic.rule.FuzzyRuleSet;
+import net.sourceforge.jFuzzyLogic.rule.Rule;
 import net.sourceforge.jFuzzyLogic.plot.JFuzzyChart;
 import net.sourceforge.jFuzzyLogic.rule.Variable;
+import sun.security.util.Length;
 import net.sourceforge.jFuzzyLogic.fcl.FclObject;
 
 public class main {
@@ -35,7 +36,7 @@ public class main {
 
 		XSSFSheet sheet = workbook.getSheetAt(0);
 
-		String FCLfile = "C:\\Users\\ander\\eclipse-workspace\\fuzzyLogic\\fuzzyLogic\\rulesFakeNews.fcl";
+		String FCLfile = "D:\\Users\\ander\\Documents\\GitHub\\TCC\\fuzzyLogic\\fuzzyLogic\\rulesFakeNews.fcl";
 		FIS fisFCL = FIS.load(FCLfile, true);
 
 		if (fisFCL == null) {
@@ -64,7 +65,7 @@ public class main {
 				Cell share = rowPos.getCell(6);
 				Cell sen = rowPos.getCell(8);
 				
-				System.out.println("Texto: " + text.getStringCellValue() + ". Erro: " + porc_error.getNumericCellValue()*100 + "%. Comp: " + share.getNumericCellValue());
+//				System.out.println("Texto: " + text.getStringCellValue() + ". Erro: " + porc_error.getNumericCellValue()*100 + "%. Comp: " + share.getNumericCellValue() + " Sensa: " + sen.getNumericCellValue() + " .");
 				
 				fisFCL.setVariable("percentual_erro_gramatical", 100*(porc_error.getNumericCellValue()));
 				fisFCL.setVariable("compartilhamento", share.getNumericCellValue());
@@ -72,10 +73,15 @@ public class main {
 				
 				fisFCL.evaluate();
 				Variable result = functionBlock.getVariable("fake");
-				JFuzzyChart.get().chart(result, result.getDefuzzifier(), true);
-				System.out.println("Fake: " + functionBlock.getVariable("fake").getValue());
+				functionBlock.getVariable("fake").defuzzify();
+//				JFuzzyChart.get().chart(result, result.getDefuzzifier(), true);
+//				System.out.println("Fake: " + functionBlock.getVariable("fake").getValue() + "Result: " + result);
+				System.out.println(formatador(result.toString()));
 				
-//				System.out.println("Txt: " + text.getStringCellValue() + "E: " + porc_error.getNumericCellValue());
+
+				try{System.in.read();}
+				catch(Exception e){}
+				
 			}
 			System.out.println(rowCounter);
 			rowCounter++;
@@ -84,6 +90,30 @@ public class main {
 
 		workbook.close();
 		fis.close();
+
+	}
+	
+	private static String formatador(String result) {
+		String[] temp = result.toString().split("Term:");
+		String[] verdadeira = temp[1].split("Sigmoidal :");
+		String[] inconclusivo = temp[2].split("Gaussian :");
+		String[] falsa = temp[3].split("Sigmoidal :");
+		
+		verdadeira = verdadeira[0].split("	");
+		inconclusivo = inconclusivo[0].split("	");
+		falsa = falsa[0].split("	");
+//		
+//		for(String element: verdadeira) {
+//			System.out.println(element);
+//		}
+		
+		if( (Float.compare(Float.parseFloat(verdadeira[1]), Float.parseFloat(inconclusivo[1])) > 0) && (Float.compare(Float.parseFloat(verdadeira[1]), Float.parseFloat(falsa[1])) > 0) ) {
+			return verdadeira[0];
+		} else if ( (Float.compare(Float.parseFloat(inconclusivo[1]), Float.parseFloat(verdadeira[1])) > 0) && (Float.compare(Float.parseFloat(inconclusivo[1]), Float.parseFloat(falsa[1])) > 0) ) {
+			return inconclusivo[0];
+		} else {
+			return falsa[0];
+		}
 
 	}
 	
