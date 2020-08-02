@@ -1,0 +1,118 @@
+package fuzzyLogic;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.*;
+
+import fuzzyLogic.Text;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+import antlr.collections.List;
+import net.sourceforge.*;
+import net.sourceforge.jFuzzyLogic.FIS;
+import net.sourceforge.jFuzzyLogic.FunctionBlock;
+//import net.sourceforge.jFuzzyLogic.rule.FuzzyRuleSet;
+import net.sourceforge.jFuzzyLogic.plot.JFuzzyChart;
+
+public class main {
+	
+	
+	
+	
+	public static void main(String[] args) throws IOException {
+		 System.out.println(new java.io.File("").getAbsolutePath());
+		File fileXLSX = new File("D:\\Users\\ander\\Documents\\GitHub\\TCC\\resultados.xlsx");
+		FileInputStream fis = new FileInputStream(fileXLSX);
+		
+		XSSFWorkbook workbook = new XSSFWorkbook(fis);
+		
+		XSSFSheet sheet = workbook.getSheetAt(0);
+
+		
+		String FCLfile = "C:\\Users\\ander\\eclipse-workspace\\fuzzyLogic\\fuzzyLogic\\rulesFakeNews.fcl";
+		FIS fisFCL = FIS.load(FCLfile, true);
+		
+		if (fisFCL == null) {
+			System.out.println("Arquivo FCL não encontrado");
+			return;
+		}
+		
+		FunctionBlock functionBlock = fisFCL.getFunctionBlock(null);
+
+	    JFuzzyChart.get().chart(functionBlock);
+		
+		Iterator<Row> rowIt = sheet.iterator();
+
+		List<Text> textList = new ArrayList<Text>();
+		
+	    while(rowIt.hasNext()) {
+	      Row row = rowIt.next();
+
+
+	      Iterator<Cell> cellIterator = row.cellIterator();
+
+	      while (cellIterator.hasNext()) {
+	        Cell cell = cellIterator.next();
+	        System.out.print(cell.toString() + "\t ; \t");
+	      }
+
+	      System.out.println();
+	    }
+
+
+	    	
+	    
+	    
+	    
+	    workbook.close();
+	    fis.close();
+		
+	}
+	
+	public class Text {
+
+		private String tittle;
+		private float perc_grammatical_error;
+		private float share_request;
+		private float sensationalist_text;
+		
+		
+		public String getTittle() {
+			return tittle;
+		}
+		public void setTittle(String tittle) {
+			this.tittle = tittle;
+		}
+		public float getPerc_grammatical_error() {
+			return perc_grammatical_error;
+		}
+		public void setPerc_grammatical_error(float perc_grammatical_error) {
+			this.perc_grammatical_error = perc_grammatical_error;
+		}
+		public float getShare_request() {
+			return share_request;
+		}
+		public void setShare_request(float share_request) {
+			this.share_request = share_request;
+		}
+		public float getSensationalist_text() {
+			return sensationalist_text;
+		}
+		public void setSensationalist_text(float sensationalist_text) {
+			this.sensationalist_text = sensationalist_text;
+		}
+		
+		public Text(String tittle, float perc_error, float share, float sensa) {
+			
+		}
+
+		
+		
+}

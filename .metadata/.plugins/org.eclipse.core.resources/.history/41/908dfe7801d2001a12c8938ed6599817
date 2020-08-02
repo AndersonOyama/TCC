@@ -1,0 +1,84 @@
+package fuzzyLogic;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.*;
+
+import fuzzyLogic.Text;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+import antlr.collections.List;
+import net.sourceforge.*;
+import net.sourceforge.jFuzzyLogic.FIS;
+import net.sourceforge.jFuzzyLogic.FunctionBlock;
+//import net.sourceforge.jFuzzyLogic.rule.FuzzyRuleSet;
+import net.sourceforge.jFuzzyLogic.plot.JFuzzyChart;
+import net.sourceforge.jFuzzyLogic.fcl.FclObject;
+
+public class main {
+
+	public static void main(String[] args) throws IOException {
+		System.out.println(new java.io.File("").getAbsolutePath());
+		File fileXLSX = new File("D:\\Users\\ander\\Documents\\GitHub\\TCC\\resultados.xlsx");
+		FileInputStream fis = new FileInputStream(fileXLSX);
+
+		XSSFWorkbook workbook = new XSSFWorkbook(fis);
+
+		XSSFSheet sheet = workbook.getSheetAt(0);
+
+		String FCLfile = "C:\\Users\\ander\\eclipse-workspace\\fuzzyLogic\\fuzzyLogic\\rulesFakeNews.fcl";
+		FIS fisFCL = FIS.load(FCLfile, true);
+
+		if (fisFCL == null) {
+			System.out.println("Arquivo FCL não encontrado");
+			System.exit(0);
+		}
+
+		FunctionBlock functionBlock = fisFCL.getFunctionBlock(null);
+
+		JFuzzyChart.get().chart(functionBlock);
+
+		Iterator<Row> rowIt = sheet.iterator();
+
+		ArrayList<Text> textList = new ArrayList<Text>();
+
+		int rowCounter = 0;
+		
+		boolean first = true;
+		
+		while (rowIt.hasNext()) {
+			Row row = rowIt.next();
+			if(first == false) {
+				Row rowPos = sheet.getRow(rowCounter);
+				Cell text = rowPos.getCell(0);
+				Cell porc_error = rowPos.getCell(2);
+				Cell share = rowPos.getCell(6);
+				Cell sen = rowPos.getCell(8);
+				
+				
+				
+				fisFCL.setVariable("percentual_erro_gramatical", 100*(porc_error.getNumericCellValue()));
+				fisFCL.setVariable("compartilhamento", 100*(hare.getNumericCellValue());
+				fisFCL.setVariable("sensacionalismo", value);
+				
+				System.out.println("Txt: " + text.getStringCellValue() + "E: " + porc_error.getNumericCellValue());
+			}
+			System.out.println(rowCounter);
+			rowCounter++;
+			first = false;
+		}
+
+		workbook.close();
+		fis.close();
+
+	}
+	
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;fuzzyLogic.text.java&apos; to &apos;Text.java&apos;&#x0D;&#x0A;- Original project: &apos;fuzzyLogic&apos;&#x0D;&#x0A;- Original element: &apos;fuzzyLogic.text.java&apos;&#x0D;&#x0A;- Renamed element: &apos;fuzzyLogic.Text.java&apos;" description="Rename compilation unit &apos;text.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/&lt;fuzzyLogic{text.java" name="Text.java" references="false" stamp="1596058443832" version="1.0"/>
+</session>
