@@ -10,6 +10,7 @@ from os import listdir
 from spCheck import countSpellError
 from share import shareCheck
 from sensacionalistaChecker import sansaChecker
+from jpype import *
 
 def list_files(dir):
     return (f for f in os.listdir(dir) if f.endswith('.'+"txt"))
@@ -121,7 +122,9 @@ def main(dir):
 
 
     results.close()
-    pass
+
+
+    return 0
 
 
 
