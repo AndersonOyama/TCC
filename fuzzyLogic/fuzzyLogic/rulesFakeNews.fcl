@@ -1,7 +1,7 @@
 FUNCTION_BLOCK fakenews
 
     VAR_INPUT
-        percentual_erro_gramatical  :   REAL;
+        percentual_erro_ortografico  :   REAL;
         compartilhamento    :   REAL;
         sensacionalismo :   REAL;
     END_VAR
@@ -12,7 +12,7 @@ FUNCTION_BLOCK fakenews
 
     END_VAR
 
-    FUZZIFY percentual_erro_gramatical
+    FUZZIFY percentual_erro_ortografico
         TERM baixo_erro := gbell 1 1 0.5;
         TERM media_erro := gauss 1.92 1.25;
         TERM alto_erro := sigm 1.25 2.4;
@@ -46,33 +46,33 @@ FUNCTION_BLOCK fakenews
         ACT : MIN;
         ACCU : MAX;
 
-        Rule 1 : IF percentual_erro_gramatical IS alto_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_falsa;
-        Rule 2 : IF percentual_erro_gramatical IS alto_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
-        Rule 3 : IF percentual_erro_gramatical IS alto_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS baixa_precisao THEN fake IS inconclusivo;
-        Rule 4 : IF percentual_erro_gramatical IS alto_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_falsa;
-        Rule 5 : IF percentual_erro_gramatical IS alto_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
-        Rule 6 : IF percentual_erro_gramatical IS alto_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS baixa_precisao THEN fake IS noticia_falsa;
-        Rule 7 : IF percentual_erro_gramatical IS alto_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_verdadeira;
-        Rule 8 : IF percentual_erro_gramatical IS alto_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
-        Rule 9 : IF percentual_erro_gramatical IS alto_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS baixa_precisao THEN fake IS inconclusivo;
-        Rule 10 : IF percentual_erro_gramatical IS media_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_verdadeira;
-        Rule 11 : IF percentual_erro_gramatical IS media_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
-        Rule 12 : IF percentual_erro_gramatical IS media_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS baixa_precisao THEN fake IS inconclusivo;
-        Rule 13 : IF percentual_erro_gramatical IS media_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_falsa;
-        Rule 14 : IF percentual_erro_gramatical IS media_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
-        Rule 15 : IF percentual_erro_gramatical IS media_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS baixa_precisao THEN fake IS noticia_falsa;
-        Rule 16 : IF percentual_erro_gramatical IS media_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_verdadeira;
-        Rule 17 : IF percentual_erro_gramatical IS media_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
-        Rule 18 : IF percentual_erro_gramatical IS media_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS baixa_precisao THEN fake IS noticia_verdadeira;
-        Rule 19 : IF percentual_erro_gramatical IS baixo_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_verdadeira;
-        Rule 20 : IF percentual_erro_gramatical IS baixo_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
-        Rule 21 : IF percentual_erro_gramatical IS baixo_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS baixa_precisao THEN fake IS inconclusivo;
-        Rule 22 : IF percentual_erro_gramatical IS baixo_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_falsa;
-        Rule 23 : IF percentual_erro_gramatical IS baixo_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
-        Rule 24 : IF percentual_erro_gramatical IS baixo_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS baixa_precisao THEN fake IS noticia_falsa;
-        Rule 25 : IF percentual_erro_gramatical IS baixo_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_verdadeira;
-        Rule 26 : IF percentual_erro_gramatical IS baixo_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS sensacionalista THEN fake IS noticia_verdadeira;
-        Rule 27 : IF percentual_erro_gramatical IS baixo_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS baixa_precisao THEN fake IS noticia_verdadeira;
+        Rule 1 : IF percentual_erro_ortografico IS alto_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_falsa;
+        Rule 2 : IF percentual_erro_ortografico IS alto_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
+        Rule 3 : IF percentual_erro_ortografico IS alto_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS baixa_precisao THEN fake IS inconclusivo;
+        Rule 4 : IF percentual_erro_ortografico IS alto_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_falsa;
+        Rule 5 : IF percentual_erro_ortografico IS alto_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
+        Rule 6 : IF percentual_erro_ortografico IS alto_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS baixa_precisao THEN fake IS noticia_falsa;
+        Rule 7 : IF percentual_erro_ortografico IS alto_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_verdadeira;
+        Rule 8 : IF percentual_erro_ortografico IS alto_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
+        Rule 9 : IF percentual_erro_ortografico IS alto_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS baixa_precisao THEN fake IS noticia_falsa;
+        Rule 10 : IF percentual_erro_ortografico IS media_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_verdadeira;
+        Rule 11 : IF percentual_erro_ortografico IS media_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
+        Rule 12 : IF percentual_erro_ortografico IS media_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS baixa_precisao THEN fake IS inconclusivo;
+        Rule 13 : IF percentual_erro_ortografico IS media_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_falsa;
+        Rule 14 : IF percentual_erro_ortografico IS media_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
+        Rule 15 : IF percentual_erro_ortografico IS media_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS baixa_precisao THEN fake IS noticia_falsa;
+        Rule 16 : IF percentual_erro_ortografico IS media_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_verdadeira;
+        Rule 17 : IF percentual_erro_ortografico IS media_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
+        Rule 18 : IF percentual_erro_ortografico IS media_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS baixa_precisao THEN fake IS noticia_verdadeira;
+        Rule 19 : IF percentual_erro_ortografico IS baixo_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_verdadeira;
+        Rule 20 : IF percentual_erro_ortografico IS baixo_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
+        Rule 21 : IF percentual_erro_ortografico IS baixo_erro AND compartilhamento IS baixa_precisao AND sensacionalismo IS baixa_precisao THEN fake IS inconclusivo;
+        Rule 22 : IF percentual_erro_ortografico IS baixo_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_falsa;
+        Rule 23 : IF percentual_erro_ortografico IS baixo_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS sensacionalista THEN fake IS noticia_falsa;
+        Rule 24 : IF percentual_erro_ortografico IS baixo_erro AND compartilhamento IS solicita_compartilhamento AND sensacionalismo IS baixa_precisao THEN fake IS noticia_falsa;
+        Rule 25 : IF percentual_erro_ortografico IS baixo_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS nao_sensacionalista THEN fake IS noticia_verdadeira;
+        Rule 26 : IF percentual_erro_ortografico IS baixo_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS sensacionalista THEN fake IS noticia_verdadeira;
+        Rule 27 : IF percentual_erro_ortografico IS baixo_erro AND compartilhamento IS nao_solicita AND sensacionalismo IS baixa_precisao THEN fake IS noticia_verdadeira;
 
     END_RULEBLOCK
 

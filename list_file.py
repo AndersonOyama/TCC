@@ -2,6 +2,7 @@
 import sys
 import os
 import subprocess
+import random
 
 def main():
     
@@ -12,9 +13,12 @@ def main():
             if '.txt' in file:
                 files.append(os.path.join(r, file))
 
-    for f in files:
-        print(f)
+#  for f in files:
+#        print(f)
 
+    rand = random.choices(files, k=20)
+    for l in rand:
+        print(l)
     pass
 
 
