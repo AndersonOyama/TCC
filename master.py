@@ -27,7 +27,7 @@ def main(dir):
     files.sort()
     
 
-    results = xlsxwriter.Workbook("resultados.xlsx")
+    results = xlsxwriter.Workbook("resultados_teste.xlsx")
     worksheet = results.add_worksheet()
 
     percent_fmt = results.add_format({'num_format': '0.00%'})
@@ -55,13 +55,13 @@ def main(dir):
     worksheet.write(0, 5, 'Solicita compartilhamento?')
     worksheet.set_column(5, 5, 25)
 
-    worksheet.write(0, 6, 'Compartilhamento valorado')
+    worksheet.write(0, 6, 'Compartilhamento convertido')
     worksheet.set_column(6, 6, 30)
 
     worksheet.write(0, 7, 'Notícia sensacionalista?')
     worksheet.set_column(7, 7, 20)
 
-    worksheet.write(0, 8, 'Sensacionalismo valorado')
+    worksheet.write(0, 8, 'Sensacionalismo convertido')
     worksheet.set_column(8, 8, 30)
 
     worksheet.write(0, 9, 'Resultado final')
