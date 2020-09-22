@@ -33,19 +33,29 @@ def shareCheck(files, dir):
     test_file_records = test_set_file.to_records(index=False)
 
     accuracy = clas.accuracy(test_file_records)
+    prob_vec = []
 
-
-
+    stopwords = nltk.corpus.stopwords.words('portuguese')
 
     for f in files:
         with open(dir+f, 'r') as f:
             lines = f.read()
             blob = TextBlob(lines, classifier=clas)
             list_share.append(blob.classify())
-    
-    # print(accuracy)
-    return list_share, accuracy
+            prob_dist = clas.prob_classify(lines)
+
+            if (blob.classify() == 'compartilhamento'):
+                prob_vec.append(round(prob_dist.prob('compartilhamento'), 2))
+            else:
+                prob_vec.append(round(prob_dist.prob('sem compartilhamento'), 2))
+            # print("Texto: ", f, "Comp: ", round(prob_dist.prob("compartilhamento"),2), "Sem: ", round(prob_dist.prob("sem compartilhamento"),2))
+            f.close()
+
+    return list_share, accuracy, prob_vec
 
 
+def removeStopWords(text, stopwords):
 
+
+    return text
 

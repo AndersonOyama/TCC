@@ -27,7 +27,7 @@ def main(dir):
     files.sort()
     
 
-    results = xlsxwriter.Workbook("resultados_teste.xlsx")
+    results = xlsxwriter.Workbook("resultados_falsas2.xlsx")
     worksheet = results.add_worksheet()
 
     percent_fmt = results.add_format({'num_format': '0.00%'})
@@ -88,14 +88,16 @@ def main(dir):
     #VERIFICADOR DE SOLICITAÇÃO DE COMPARTILHAMENTO
     column += 4
 
-    compartilhamento, accuracy = shareCheck(files, dir)
+    compartilhamento, accuracy, prob = shareCheck(files, dir)
     compartilhamento_value = []
+
+    print(prob)
 
     for i in range(0, len(compartilhamento), 1):
         if( compartilhamento[i] == 'compartilhamento'):
-            compartilhamento_value.append(accuracy*(-1))
+            compartilhamento_value.append(prob[i]*(-1))
         else:
-            compartilhamento_value.append(accuracy*1)
+            compartilhamento_value.append(prob[i]*1)
 
     for i in range(0, len(compartilhamento), 1):
         worksheet.write(i+1, column, compartilhamento[i])
