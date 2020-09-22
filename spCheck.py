@@ -49,22 +49,6 @@ def countSpellError(file):
         lines = word_tokenize( multi_replace(reg, re.sub(r'(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}     /)(?:[^\s()<>]+|\(([^\s()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{};:\'".,<>?«»“”‘’]))', '', f.read().lower(), flags=re.MULTILINE)))
 
     misspelled = spell.unknown(lines)
-    # try:
-    # translated = translator.translate(TreebankWordDetokenizer().detokenize(misspelled), dest = 'en', src = 'pt')
-    #     print(translated.text, "\n", misspelled, "\n")
-    #     error_translated = translator.translate
-    #     print(TreebankWordDetokenizer().detokenize(error_translated))
-    #     # new_errors = spell.unknown
-    # except Exception as e:
-    #     print(str(e))
-        
-
-
-    # for word in misspelled:
-        # spell.correction(word)
-        # print(word)
-        # print(word, spell.correction(word))
-        # nmberOfError += 1
     
     count_errors = (len(misspelled)/len(lines))
     # paragraph = (len(lines.paras()))
