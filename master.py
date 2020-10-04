@@ -27,7 +27,7 @@ def main(dir):
     files.sort()
     
 
-    results = xlsxwriter.Workbook("resultados_falsas2.xlsx")
+    results = xlsxwriter.Workbook("testes.xlsx")
     worksheet = results.add_worksheet()
 
     percent_fmt = results.add_format({'num_format': '0.00%'})

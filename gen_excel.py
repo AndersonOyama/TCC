@@ -10,25 +10,25 @@ def main(dir, tam):
     files = list_files(dir)
     files = list(files)
 
-    results = xlsxwriter.Workbook("train_gen.xlsx")
+    results = xlsxwriter.Workbook("train_gen_sen.xlsx")
     worksheet = results.add_worksheet()
 
     row = 0
     column = 0
 
-    print(files, len(files))
+    print(len(files))
 
 
-    list_f = random.choices(files, k=tam)
-    print(list_f)
-    for f in list_f:
+    print("\n".join(files))
+    for f in files:
         with open(dir+f, 'r') as f:   
             worksheet.write(row, column, f.read())
+            worksheet.write(row, column+1, "")
             row +=1
             f.close()
 
 
     results.close()
-    
+
 if __name__ == "__main__":
-    main(sys.argv[1], int(sys.argv[2]))
+    main(sys.argv[1], int(sys.argv[2])) 

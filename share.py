@@ -35,11 +35,10 @@ def shareCheck(files, dir):
     accuracy = clas.accuracy(test_file_records)
     prob_vec = []
 
-    stopwords = nltk.corpus.stopwords.words('portuguese')
-
     for f in files:
         with open(dir+f, 'r') as f:
             lines = f.read()
+            
             blob = TextBlob(lines, classifier=clas)
             list_share.append(blob.classify())
             prob_dist = clas.prob_classify(lines)
