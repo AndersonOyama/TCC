@@ -14,8 +14,8 @@ def shareCheck(files, dir):
 
     list_share = []
 
-    train_file = "./dataset/compartilhamento/train_set.ods"
-    test_file = "./dataset/compartilhamento/test_set.ods"
+    train_file = "./dataset/compartilhamento/train_gen_compartilhamento.ods"
+    test_file = "./dataset/compartilhamento/train_gen_compartilhamento.ods"
 
     sheet_id = 1
     df = read_ods(train_file, sheet_id)

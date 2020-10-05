@@ -12,10 +12,10 @@ from string import punctuation
 
 def sansaChecker(files, dir):
 
-    list_sensa = []
+    list_share = []
 
-    train_file = "./dataset/sensa/train_set.ods"
-    test_file = "./dataset/sensa/test_set.ods"
+    train_file = "./dataset/sensa/train_gen_sensa.ods"
+    test_file = "./dataset/sensa/train_gen_sensa.ods"
 
     sheet_id = 1
     df = read_ods(train_file, sheet_id)
@@ -33,15 +33,27 @@ def sansaChecker(files, dir):
     test_file_records = test_set_file.to_records(index=False)
 
     accuracy = clas.accuracy(test_file_records)
-
+    prob_vec = []
 
     for f in files:
         with open(dir+f, 'r') as f:
             lines = f.read()
+            
             blob = TextBlob(lines, classifier=clas)
-            list_sensa.append(blob.classify())
+            list_share.append(blob.classify())
+            prob_dist = clas.prob_classify(lines)
 
-    return list_sensa, accuracy
+            if (blob.classify() == 'sensacionalista'):
+                prob_vec.append(round(prob_dist.prob('sensacionalista'), 2))
+            else:
+                prob_vec.append(round(prob_dist.prob('não sensacionalista'), 2))
+            f.close()
+
+    return list_share, accuracy, prob_vec
 
 
+def removeStopWords(text, stopwords):
+
+
+    return text
 

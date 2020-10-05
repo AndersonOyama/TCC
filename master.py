@@ -27,11 +27,9 @@ def main(dir):
     files.sort()
     
 
-    results = xlsxwriter.Workbook("testes.xlsx")
+    results = xlsxwriter.Workbook("a.xlsx")
     worksheet = results.add_worksheet()
 
-    file_sensacionalismo = "~/dataset/compartilhamento/train_gen_compartilhamento.ods"
-    file_compartilhamento = "~/dataset/compartilhamento/train_gen_sensa.ods"
 
     percent_fmt = results.add_format({'num_format': '0.00%'})
     # cell_format = results.add_format()
@@ -111,14 +109,14 @@ def main(dir):
 
     column += 2
 
-    sensacionalista, accuracy = sansaChecker(files, dir)
+    sensacionalista, accuracy, prob = sansaChecker(files, dir)
     sensacionalista_value = []
 
     for i in range(0, len(sensacionalista), 1):
         if( sensacionalista[i] == 'não sensacionalista'):
-            sensacionalista_value.append(accuracy*1)
+            sensacionalista_value.append(prob[i]*1)
         else:
-            sensacionalista_value.append(accuracy*(-1))
+            sensacionalista_value.append(prob[i]*(-1))
 
     for i in range(0, len(sensacionalista), 1):
         worksheet.write(i+1, column, sensacionalista[i])
