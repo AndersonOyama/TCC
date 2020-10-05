@@ -30,6 +30,9 @@ def main(dir):
     results = xlsxwriter.Workbook("testes.xlsx")
     worksheet = results.add_worksheet()
 
+    file_sensacionalismo = "~/dataset/compartilhamento/train_gen_compartilhamento.ods"
+    file_compartilhamento = "~/dataset/compartilhamento/train_gen_sensa.ods"
+
     percent_fmt = results.add_format({'num_format': '0.00%'})
     # cell_format = results.add_format()
     # cell_format.set_text_wrap()

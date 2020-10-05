@@ -9,8 +9,9 @@ def list_files(dir):
 def main(dir, tam):
     files = list_files(dir)
     files = list(files)
+    files.sort()
 
-    results = xlsxwriter.Workbook("train_gen_sen.xlsx")
+    results = xlsxwriter.Workbook("train_gen_sensa.xlsx")
     worksheet = results.add_worksheet()
 
     row = 0
