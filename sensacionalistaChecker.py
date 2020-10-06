@@ -14,8 +14,8 @@ def sansaChecker(files, dir):
 
     list_share = []
 
-    train_file = "./dataset/sensa/train_gen_sensa.ods"
-    test_file = "./dataset/sensa/train_gen_sensa.ods"
+    train_file = "./80/aleatorio/treino/sensacionalismo/train_gen_sensa.ods"
+    test_file = "./80/aleatorio/teste/sensacionalismo/test_gen_sensa.ods"
 
     sheet_id = 1
     df = read_ods(train_file, sheet_id)

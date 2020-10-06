@@ -11,7 +11,7 @@ def main(dir, tam):
     files = list(files)
     files.sort()
 
-    results = xlsxwriter.Workbook("train_gen_sensa.xlsx")
+    results = xlsxwriter.Workbook("/home/anderson/Documentos/aleatorio/sensa/test_gen_sensa.xlsx")
     worksheet = results.add_worksheet()
 
     row = 0

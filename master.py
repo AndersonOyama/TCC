@@ -27,7 +27,7 @@ def main(dir):
     files.sort()
     
 
-    results = xlsxwriter.Workbook("a.xlsx")
+    results = xlsxwriter.Workbook("resultado_80.xlsx")
     worksheet = results.add_worksheet()
 
 
